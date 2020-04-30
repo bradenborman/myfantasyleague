@@ -5,6 +5,9 @@ build/
 !**/src/test/**
 server/src/main/resources/static/
 
+mfl-server/src/main/resources/static/
+mfl-server/src/main/resources/templates/
+
 ### Client ###
 *node_modules
 .vscode/
