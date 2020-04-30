@@ -1,0 +1,18 @@
+body {
+    background-color: #d4dbd2;
+    text-align: center;
+    font-family: 'Happy Monkey';
+    font-size: 1.6em;
+
+    .loading {
+        margin-top: 200px;
+        font-size: 2em;
+    }
+
+    p.error {
+        margin-top: 300px;
+        font-size: 2em;
+        color: red;
+    }
+
+}
