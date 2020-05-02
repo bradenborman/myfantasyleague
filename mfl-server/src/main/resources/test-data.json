@@ -15,140 +15,160 @@
               "salary": "20",
               "position": "QB",
               "name": "Mahomes, Patrick",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "7401",
               "salary": "5",
               "position": "QB",
               "name": "Roethlisberger, Ben",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "13156",
               "salary": "20",
               "position": "WR",
               "name": "Smith-Schuster, JuJu",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "9662",
               "salary": "25",
               "position": "WR",
               "name": "Edelman, Julian",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             },
             {
               "id": "13158",
               "salary": "14",
               "position": "WR",
               "name": "Westbrook, Dede",
-              "team": "JAC"
+              "team": "JAC",
+              "on_trading_block": false
             },
             {
               "id": "10738",
               "salary": "14",
               "position": "WR",
               "name": "Jones, Marvin",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "13391",
               "salary": "5",
               "position": "TE",
               "name": "Hollister, Jacob",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "13354",
               "salary": "7",
               "position": "PK",
               "name": "Butker, Harrison",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "13378",
               "salary": "21",
               "position": "RB",
               "name": "Breida, Matt",
-              "team": "MIA"
+              "team": "MIA",
+              "on_trading_block": false
             },
             {
               "id": "12386",
               "salary": "5",
               "position": "RB",
               "name": "Brown, Malcolm",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             },
             {
               "id": "9431",
               "salary": "34",
               "position": "QB",
               "name": "Stafford, Matthew",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "14106",
               "salary": "5",
               "position": "WR",
               "name": "Butler, Hakeem",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "12634",
               "salary": "10",
               "position": "RB",
               "name": "Howard, Jordan",
-              "team": "MIA"
+              "team": "MIA",
+              "on_trading_block": false
             },
             {
               "id": "0527",
               "salary": "5",
               "position": "Def",
               "name": "Panthers, Carolina",
-              "team": "CAR"
+              "team": "CAR",
+              "on_trading_block": false
             },
             {
               "id": "13193",
               "salary": "5",
               "position": "TE",
               "name": "Smith, Jonnu",
-              "team": "TEN"
+              "team": "TEN",
+              "on_trading_block": false
             },
             {
               "id": "14284",
               "salary": "5",
               "position": "RB",
               "name": "Thompson, Darwin",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "0505",
               "salary": "5",
               "position": "Def",
               "name": "Jets, New York",
-              "team": "NYJ"
+              "team": "NYJ",
+              "on_trading_block": false
             },
             {
               "id": "13387",
               "salary": "5",
               "position": "WR",
               "name": "Johnson, Marcus",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": false
             },
             {
               "id": "13290",
               "salary": "10",
               "position": "RB",
               "name": "Cohen, Tarik",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": false
             },
             {
               "id": "13128",
               "salary": "20",
               "position": "RB",
               "name": "Cook, Dalvin",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             }
           ]
         },
@@ -163,91 +183,104 @@
               "salary": "15",
               "position": "RB",
               "name": "Barkley, Saquon",
-              "team": "NYG"
+              "team": "NYG",
+              "on_trading_block": false
             },
             {
               "id": "11675",
               "salary": "41",
               "position": "WR",
               "name": "Adams, Davante",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "12676",
               "salary": "11",
               "position": "TE",
               "name": "Henry, Hunter",
-              "team": "LAC"
+              "team": "LAC",
+              "on_trading_block": false
             },
             {
               "id": "13146",
               "salary": "15",
               "position": "RB",
               "name": "Conner, James",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "13277",
               "salary": "20",
               "position": "WR",
               "name": "Golladay, Kenny",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "13590",
               "salary": "15",
               "position": "QB",
               "name": "Mayfield, Baker",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "14223",
               "salary": "10",
               "position": "RB",
               "name": "Mattison, Alexander",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             },
             {
               "id": "13671",
               "salary": "11",
               "position": "TE",
               "name": "Andrews, Mark",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": true
             },
             {
               "id": "11674",
               "salary": "35",
               "position": "WR",
               "name": "Cooks, Brandin",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": true
             },
             {
               "id": "0510",
               "salary": "5",
               "position": "Def",
               "name": "Steelers, Pittsburgh",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "12650",
               "salary": "24",
               "position": "WR",
               "name": "Boyd, Tyler",
-              "team": "CIN"
+              "team": "CIN",
+              "on_trading_block": false
             },
             {
               "id": "12151",
               "salary": "43",
               "position": "RB",
               "name": "Gordon, Melvin",
-              "team": "DEN"
+              "team": "DEN",
+              "on_trading_block": false
             },
             {
               "id": "5848",
               "salary": "48",
               "position": "QB",
               "name": "Brady, Tom",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             }
           ]
         },
@@ -262,56 +295,64 @@
               "salary": "15",
               "position": "RB",
               "name": "Chubb, Nick",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "12677",
               "salary": "12",
               "position": "TE",
               "name": "Hooper, Austin",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "14138",
               "salary": "10",
               "position": "TE",
               "name": "Hockenson, T.J.",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "9831",
               "salary": "10",
               "position": "WR",
               "name": "Tate, Golden",
-              "team": "NYG"
+              "team": "NYG",
+              "on_trading_block": false
             },
             {
               "id": "13157",
               "salary": "11",
               "position": "WR",
               "name": "Samuel, Curtis",
-              "team": "CAR"
+              "team": "CAR",
+              "on_trading_block": false
             },
             {
               "id": "13629",
               "salary": "15",
               "position": "WR",
               "name": "Ridley, Calvin",
-              "team": "ATL"
+              "team": "ATL",
+              "on_trading_block": false
             },
             {
               "id": "14101",
               "salary": "5",
               "position": "WR",
               "name": "Harry, N'Keal",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             },
             {
               "id": "14127",
               "salary": "5",
               "position": "WR",
               "name": "Meyers, Jakobi",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             }
           ]
         },
@@ -326,140 +367,160 @@
               "salary": "15",
               "position": "RB",
               "name": "Johnson, Kerryon",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "12665",
               "salary": "12",
               "position": "WR",
               "name": "Allison, Geronimo",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "12652",
               "salary": "25",
               "position": "WR",
               "name": "Thomas, Michael",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": true
             },
             {
               "id": "12152",
               "salary": "23",
               "position": "RB",
               "name": "Coleman, Tevin",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": true
             },
             {
               "id": "12625",
               "salary": "25",
               "position": "RB",
               "name": "Elliott, Ezekiel",
-              "team": "DAL"
+              "team": "DAL",
+              "on_trading_block": true
             },
             {
               "id": "14104",
               "salary": "10",
               "position": "WR",
               "name": "Brown, A.J.",
-              "team": "TEN"
+              "team": "TEN",
+              "on_trading_block": false
             },
             {
               "id": "14109",
               "salary": "10",
               "position": "WR",
               "name": "McLaurin, Terry",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             },
             {
               "id": "8687",
               "salary": "9",
               "position": "TE",
               "name": "Olsen, Greg",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "10703",
               "salary": "55",
               "position": "QB",
               "name": "Wilson, Russell",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "0516",
               "salary": "8",
               "position": "Def",
               "name": "Cowboys, Dallas",
-              "team": "DAL"
+              "team": "DAL",
+              "on_trading_block": false
             },
             {
               "id": "12616",
               "salary": "30",
               "position": "QB",
               "name": "Brissett, Jacoby",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": true
             },
             {
               "id": "0529",
               "salary": "13",
               "position": "Def",
               "name": "Saints, New Orleans",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "13613",
               "salary": "8",
               "position": "RB",
               "name": "Samuels, Jaylen",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "14122",
               "salary": "7",
               "position": "WR",
               "name": "Slayton, Darius",
-              "team": "NYG"
+              "team": "NYG",
+              "on_trading_block": false
             },
             {
               "id": "0507",
               "salary": "15",
               "position": "Def",
               "name": "Browns, Cleveland",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "13674",
               "salary": "7",
               "position": "TE",
               "name": "Goedert, Dallas",
-              "team": "PHI"
+              "team": "PHI",
+              "on_trading_block": false
             },
             {
               "id": "13424",
               "salary": "10",
               "position": "WR",
               "name": "Hill, Taysom",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "10976",
               "salary": "15",
               "position": "PK",
               "name": "Tucker, Justin",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": false
             },
             {
               "id": "11886",
               "salary": "15",
               "position": "RB",
               "name": "Williams, Damien",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "13868",
               "salary": "20",
               "position": "RB",
               "name": "Boone, Mike",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             }
           ]
         },
@@ -474,140 +535,160 @@
               "salary": "20",
               "position": "WR",
               "name": "Godwin, Chris",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             },
             {
               "id": "13138",
               "salary": "20",
               "position": "RB",
               "name": "Hunt, Kareem",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "13592",
               "salary": "15",
               "position": "QB",
               "name": "Darnold, Sam",
-              "team": "NYJ"
+              "team": "NYJ",
+              "on_trading_block": false
             },
             {
               "id": "11938",
               "salary": "25",
               "position": "WR",
               "name": "Thielen, Adam",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             },
             {
               "id": "12171",
               "salary": "28",
               "position": "RB",
               "name": "Johnson, David",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": false
             },
             {
               "id": "9918",
               "salary": "19",
               "position": "WR",
               "name": "Sanders, Emmanuel",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "14136",
               "salary": "10",
               "position": "WR",
               "name": "Samuel, Deebo",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": false
             },
             {
               "id": "14137",
               "salary": "10",
               "position": "TE",
               "name": "Fant, Noah",
-              "team": "DEN"
+              "team": "DEN",
+              "on_trading_block": false
             },
             {
               "id": "14080",
               "salary": "10",
               "position": "RB",
               "name": "Singletary, Devin",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "12263",
               "salary": "13",
               "position": "TE",
               "name": "Waller, Darren",
-              "team": "LVR"
+              "team": "LVR",
+              "on_trading_block": false
             },
             {
               "id": "0508",
               "salary": "5",
               "position": "Def",
               "name": "Titans, Tennessee",
-              "team": "TEN"
+              "team": "TEN",
+              "on_trading_block": false
             },
             {
               "id": "7836",
               "salary": "60",
               "position": "QB",
               "name": "Rodgers, Aaron",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "12391",
               "salary": "15",
               "position": "WR",
               "name": "Williams, Tyrell",
-              "team": "LVR"
+              "team": "LVR",
+              "on_trading_block": false
             },
             {
               "id": "13726",
               "salary": "10",
               "position": "RB",
               "name": "Edmonds, Chase",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "11660",
               "salary": "26",
               "position": "RB",
               "name": "Freeman, Devonta",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "12635",
               "salary": "15",
               "position": "RB",
               "name": "Williams, Jonathan",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "13632",
               "salary": "8",
               "position": "WR",
               "name": "Lazard, Allen",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "14618",
               "salary": "14",
               "position": "QB",
               "name": "Hodges, Devlin",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "13642",
               "salary": "13",
               "position": "WR",
               "name": "Tate, Auden",
-              "team": "CIN"
+              "team": "CIN",
+              "on_trading_block": false
             },
             {
               "id": "11387",
               "salary": "10",
               "position": "PK",
               "name": "Hopkins, Dustin",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             }
           ]
         },
@@ -622,105 +703,120 @@
               "salary": "17",
               "position": "QB",
               "name": "Garoppolo, Jimmy",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": false
             },
             {
               "id": "13299",
               "salary": "16",
               "position": "TE",
               "name": "Kittle, George",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": false
             },
             {
               "id": "13635",
               "salary": "15",
               "position": "WR",
               "name": "Moore, D.J.",
-              "team": "CAR"
+              "team": "CAR",
+              "on_trading_block": false
             },
             {
               "id": "13589",
               "salary": "15",
               "position": "QB",
               "name": "Allen, Josh",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "13606",
               "salary": "12",
               "position": "RB",
               "name": "Jones, Ronald",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             },
             {
               "id": "14071",
               "salary": "10",
               "position": "RB",
               "name": "Montgomery, David",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": false
             },
             {
               "id": "14126",
               "salary": "5",
               "position": "WR",
               "name": "Williams, Preston",
-              "team": "MIA"
+              "team": "MIA",
+              "on_trading_block": false
             },
             {
               "id": "13630",
               "salary": "21",
               "position": "WR",
               "name": "Sutton, Courtland",
-              "team": "DEN"
+              "team": "DEN",
+              "on_trading_block": false
             },
             {
               "id": "11192",
               "salary": "49",
               "position": "RB",
               "name": "Bell, Le'Veon",
-              "team": "NYJ"
+              "team": "NYJ",
+              "on_trading_block": false
             },
             {
               "id": "12175",
               "salary": "38",
               "position": "WR",
               "name": "Cooper, Amari",
-              "team": "DAL"
+              "team": "DAL",
+              "on_trading_block": false
             },
             {
               "id": "12186",
               "salary": "26",
               "position": "WR",
               "name": "Diggs, Stefon",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "9988",
               "salary": "5",
               "position": "WR",
               "name": "Brown, Antonio",
-              "team": "FA*"
+              "team": "FA*",
+              "on_trading_block": false
             },
             {
               "id": "14305",
               "salary": "5",
               "position": "WR",
               "name": "Johnson, Olabisi",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             },
             {
               "id": "13189",
               "salary": "16",
               "position": "TE",
               "name": "Engram, Evan",
-              "team": "NYG"
+              "team": "NYG",
+              "on_trading_block": false
             },
             {
               "id": "14079",
               "salary": "10",
               "position": "RB",
               "name": "Sanders, Miles",
-              "team": "PHI"
+              "team": "PHI",
+              "on_trading_block": false
             }
           ]
         },
@@ -735,119 +831,136 @@
               "salary": "5",
               "position": "RB",
               "name": "Yeldon, T.J.",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "12184",
               "salary": "5",
               "position": "WR",
               "name": "Crowder, Jamison",
-              "team": "NYJ"
+              "team": "NYJ",
+              "on_trading_block": false
             },
             {
               "id": "11250",
               "salary": "5",
               "position": "TE",
               "name": "Eifert, Tyler",
-              "team": "JAC"
+              "team": "JAC",
+              "on_trading_block": false
             },
             {
               "id": "10708",
               "salary": "5",
               "position": "RB",
               "name": "Miller, Lamar",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "11975",
               "salary": "10",
               "position": "WR",
               "name": "Gabriel, Taylor",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "14087",
               "salary": "10",
               "position": "RB",
               "name": "Henderson, Darrell",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             },
             {
               "id": "10948",
               "salary": "20",
               "position": "QB",
               "name": "Keenum, Case",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "10699",
               "salary": "5",
               "position": "QB",
               "name": "Foles, Nick",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": false
             },
             {
               "id": "12205",
               "salary": "5",
               "position": "WR",
               "name": "Funchess, Devin",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "13192",
               "salary": "5",
               "position": "TE",
               "name": "Njoku, David",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "13631",
               "salary": "5",
               "position": "WR",
               "name": "Washington, James",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "13639",
               "salary": "5",
               "position": "WR",
               "name": "Miller, Anthony",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": false
             },
             {
               "id": "14317",
               "salary": "5",
               "position": "WR",
               "name": "Doss, Keelan",
-              "team": "LVR"
+              "team": "LVR",
+              "on_trading_block": false
             },
             {
               "id": "10960",
               "salary": "20",
               "position": "WR",
               "name": "Gordon, Josh",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "12610",
               "salary": "25",
               "position": "QB",
               "name": "Wentz, Carson",
-              "team": "PHI"
+              "team": "PHI",
+              "on_trading_block": false
             },
             {
               "id": "13132",
               "salary": "20",
               "position": "RB",
               "name": "Kamara, Alvin",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "12801",
               "salary": "25",
               "position": "WR",
               "name": "Hill, Tyreek",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             }
           ]
         },
@@ -862,140 +975,160 @@
               "salary": "15",
               "position": "QB",
               "name": "Jackson, Lamar",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": false
             },
             {
               "id": "13633",
               "salary": "15",
               "position": "WR",
               "name": "Kirk, Christian",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "14086",
               "salary": "10",
               "position": "RB",
               "name": "Hill, Justice",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": false
             },
             {
               "id": "11679",
               "salary": "48",
               "position": "WR",
               "name": "Beckham, Odell",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "11644",
               "salary": "52",
               "position": "QB",
               "name": "Carr, Derek",
-              "team": "LVR"
+              "team": "LVR",
+              "on_trading_block": false
             },
             {
               "id": "0531",
               "salary": "12",
               "position": "Def",
               "name": "Ravens, Baltimore",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": false
             },
             {
               "id": "11670",
               "salary": "24",
               "position": "WR",
               "name": "Watkins, Sammy",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "11695",
               "salary": "18",
               "position": "TE",
               "name": "Ebron, Eric",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "11657",
               "salary": "8",
               "position": "RB",
               "name": "Hyde, Carlos",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "11193",
               "salary": "5",
               "position": "RB",
               "name": "Bernard, Giovani",
-              "team": "CIN"
+              "team": "CIN",
+              "on_trading_block": false
             },
             {
               "id": "13871",
               "salary": "20",
               "position": "RB",
               "name": "Hilliard, Dontrell",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "11177",
               "salary": "15",
               "position": "RB",
               "name": "Barner, Kenjon",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "13347",
               "salary": "8",
               "position": "PK",
               "name": "Gonzalez, Zane",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "13594",
               "salary": "12",
               "position": "QB",
               "name": "Falk, Luke",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "0525",
               "salary": "11",
               "position": "Def",
               "name": "Buccaneers, Tampa Bay",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             },
             {
               "id": "13763",
               "salary": "9",
               "position": "TE",
               "name": "Dissly, Will",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "12464",
               "salary": "9",
               "position": "WR",
               "name": "Byrd, Damiere",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             },
             {
               "id": "8930",
               "salary": "8",
               "position": "PK",
               "name": "Prater, Matt",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "13863",
               "salary": "24",
               "position": "WR",
               "name": "Pringle, Byron",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "14613",
               "salary": "17",
               "position": "WR",
               "name": "Sims, Steven",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             }
           ]
         },
@@ -1010,140 +1143,160 @@
               "salary": "25",
               "position": "QB",
               "name": "Goff, Jared",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             },
             {
               "id": "13154",
               "salary": "20",
               "position": "WR",
               "name": "Williams, Mike",
-              "team": "LAC"
+              "team": "LAC",
+              "on_trading_block": false
             },
             {
               "id": "13646",
               "salary": "15",
               "position": "WR",
               "name": "Gallup, Michael",
-              "team": "DAL"
+              "team": "DAL",
+              "on_trading_block": false
             },
             {
               "id": "13130",
               "salary": "20",
               "position": "RB",
               "name": "McCaffrey, Christian",
-              "team": "CAR"
+              "team": "CAR",
+              "on_trading_block": false
             },
             {
               "id": "13607",
               "salary": "15",
               "position": "RB",
               "name": "Michel, Sony",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             },
             {
               "id": "11247",
               "salary": "28",
               "position": "TE",
               "name": "Ertz, Zach",
-              "team": "PHI"
+              "team": "PHI",
+              "on_trading_block": false
             },
             {
               "id": "14073",
               "salary": "10",
               "position": "RB",
               "name": "Jacobs, Josh",
-              "team": "LVR"
+              "team": "LVR",
+              "on_trading_block": false
             },
             {
               "id": "14113",
               "salary": "10",
               "position": "WR",
               "name": "Hardman, Mecole",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "10868",
               "salary": "10",
               "position": "PK",
               "name": "Zuerlein, Greg",
-              "team": "DAL"
+              "team": "DAL",
+              "on_trading_block": false
             },
             {
               "id": "0532",
               "salary": "9",
               "position": "Def",
               "name": "Texans, Houston",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": false
             },
             {
               "id": "10271",
               "salary": "49",
               "position": "WR",
               "name": "Jones, Julio",
-              "team": "ATL"
+              "team": "ATL",
+              "on_trading_block": false
             },
             {
               "id": "12505",
               "salary": "13",
               "position": "WR",
               "name": "Humphries, Adam",
-              "team": "TEN"
+              "team": "TEN",
+              "on_trading_block": false
             },
             {
               "id": "0524",
               "salary": "5",
               "position": "Def",
               "name": "Vikings, Minnesota",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             },
             {
               "id": "11758",
               "salary": "8",
               "position": "WR",
               "name": "Latimer, Cody",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             },
             {
               "id": "10697",
               "salary": "10",
               "position": "QB",
               "name": "Tannehill, Ryan",
-              "team": "TEN"
+              "team": "TEN",
+              "on_trading_block": false
             },
             {
               "id": "14063",
               "salary": "5",
               "position": "QB",
               "name": "Stidham, Jarrett",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             },
             {
               "id": "12857",
               "salary": "46",
               "position": "RB",
               "name": "Washington, DeAndre",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "12197",
               "salary": "22",
               "position": "WR",
               "name": "Perriman, Breshad",
-              "team": "NYJ"
+              "team": "NYJ",
+              "on_trading_block": false
             },
             {
               "id": "12678",
               "salary": "14",
               "position": "TE",
               "name": "Higbee, Tyler",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             },
             {
               "id": "13864",
               "salary": "11",
               "position": "WR",
               "name": "Ward, Greg",
-              "team": "PHI"
+              "team": "PHI",
+              "on_trading_block": false
             }
           ]
         },
@@ -1158,133 +1311,152 @@
               "salary": "42",
               "position": "WR",
               "name": "Allen, Keenan",
-              "team": "LAC"
+              "team": "LAC",
+              "on_trading_block": false
             },
             {
               "id": "11747",
               "salary": "20",
               "position": "RB",
               "name": "White, James",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             },
             {
               "id": "12257",
               "salary": "5",
               "position": "WR",
               "name": "Conley, Chris",
-              "team": "JAC"
+              "team": "JAC",
+              "on_trading_block": true
             },
             {
               "id": "8673",
               "salary": "5",
               "position": "WR",
               "name": "Ginn Jr., Ted",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": true
             },
             {
               "id": "13668",
               "salary": "5",
               "position": "WR",
               "name": "Chark, D.J.",
-              "team": "JAC"
+              "team": "JAC",
+              "on_trading_block": false
             },
             {
               "id": "0522",
               "salary": "5",
               "position": "Def",
               "name": "Lions, Detroit",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "14105",
               "salary": "10",
               "position": "WR",
               "name": "Brown, Marquise",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": false
             },
             {
               "id": "14067",
               "salary": "50",
               "position": "QB",
               "name": "Minshew, Gardner",
-              "team": "JAC"
+              "team": "JAC",
+              "on_trading_block": true
             },
             {
               "id": "13617",
               "salary": "15",
               "position": "RB",
               "name": "Freeman, Royce",
-              "team": "DEN"
+              "team": "DEN",
+              "on_trading_block": false
             },
             {
               "id": "11257",
               "salary": "12",
               "position": "TE",
               "name": "McDonald, Vance",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "13148",
               "salary": "10",
               "position": "RB",
               "name": "Ogunbowale, Dare",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             },
             {
               "id": "0502",
               "salary": "5",
               "position": "Def",
               "name": "Colts, Indianapolis",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": false
             },
             {
               "id": "12157",
               "salary": "25",
               "position": "RB",
               "name": "Johnson, Duke",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": false
             },
             {
               "id": "11678",
               "salary": "22",
               "position": "WR",
               "name": "Robinson, Allen",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": false
             },
             {
               "id": "13382",
               "salary": "5",
               "position": "TE",
               "name": "Seals-Jones, Ricky",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "8944",
               "salary": "36",
               "position": "QB",
               "name": "Moore, Matt",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "13234",
               "salary": "16",
               "position": "RB",
               "name": "Mack, Marlon",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": false
             },
             {
               "id": "9099",
               "salary": "51",
               "position": "QB",
               "name": "Ryan, Matt",
-              "team": "ATL"
+              "team": "ATL",
+              "on_trading_block": false
             },
             {
               "id": "11936",
               "salary": "5",
               "position": "PK",
               "name": "Boswell, Chris",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             }
           ]
         },
@@ -1299,112 +1471,128 @@
               "salary": "20",
               "position": "QB",
               "name": "Watson, Deshaun",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": false
             },
             {
               "id": "11232",
               "salary": "45",
               "position": "WR",
               "name": "Hopkins, DeAndre",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": true
             },
             {
               "id": "11671",
               "salary": "37",
               "position": "WR",
               "name": "Evans, Mike",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": true
             },
             {
               "id": "13364",
               "salary": "20",
               "position": "RB",
               "name": "Carson, Chris",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "12187",
               "salary": "21",
               "position": "WR",
               "name": "Lockett, Tyler",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "12658",
               "salary": "18",
               "position": "WR",
               "name": "Shepard, Sterling",
-              "team": "NYG"
+              "team": "NYG",
+              "on_trading_block": false
             },
             {
               "id": "14124",
               "salary": "7",
               "position": "WR",
               "name": "Johnson, KeeSean",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": true
             },
             {
               "id": "10261",
               "salary": "22",
               "position": "WR",
               "name": "Green, A.J.",
-              "team": "CIN"
+              "team": "CIN",
+              "on_trading_block": false
             },
             {
               "id": "8658",
               "salary": "8",
               "position": "RB",
               "name": "Peterson, Adrian",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             },
             {
               "id": "11516",
               "salary": "7",
               "position": "TE",
               "name": "Doyle, Jack",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": true
             },
             {
               "id": "14123",
               "salary": "7",
               "position": "WR",
               "name": "Renfrow, Hunter",
-              "team": "LVR"
+              "team": "LVR",
+              "on_trading_block": true
             },
             {
               "id": "9308",
               "salary": "8",
               "position": "WR",
               "name": "Amendola, Danny",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             },
             {
               "id": "13662",
               "salary": "7",
               "position": "WR",
               "name": "Coutee, Keke",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": true
             },
             {
               "id": "0521",
               "salary": "8",
               "position": "Def",
               "name": "Bears, Chicago",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": false
             },
             {
               "id": "11850",
               "salary": "5",
               "position": "WR",
               "name": "Enunwa, Quincy",
-              "team": "NYJ"
+              "team": "NYJ",
+              "on_trading_block": false
             },
             {
               "id": "13595",
               "salary": "5",
               "position": "QB",
               "name": "Rudolph, Mason",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             }
           ]
         },
@@ -1419,140 +1607,160 @@
               "salary": "20",
               "position": "RB",
               "name": "Lewis, Dion",
-              "team": "NYG"
+              "team": "NYG",
+              "on_trading_block": false
             },
             {
               "id": "11228",
               "salary": "21",
               "position": "WR",
               "name": "Woods, Robert",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             },
             {
               "id": "9474",
               "salary": "12",
               "position": "TE",
               "name": "Cook, Jared",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "10313",
               "salary": "42",
               "position": "QB",
               "name": "Dalton, Andy",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "14056",
               "salary": "10",
               "position": "QB",
               "name": "Murray, Kyler",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "13622",
               "salary": "14",
               "position": "RB",
               "name": "Hines, Nyheim",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": false
             },
             {
               "id": "13165",
               "salary": "5",
               "position": "WR",
               "name": "Switzer, Ryan",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "12814",
               "salary": "12",
               "position": "WR",
               "name": "Grant, Jakeem",
-              "team": "MIA"
+              "team": "MIA",
+              "on_trading_block": false
             },
             {
               "id": "12637",
               "salary": "12",
               "position": "RB",
               "name": "Barber, Peyton",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             },
             {
               "id": "8742",
               "salary": "10",
               "position": "PK",
               "name": "Crosby, Mason",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "11244",
               "salary": "34",
               "position": "TE",
               "name": "Kelce, Travis",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "9884",
               "salary": "39",
               "position": "WR",
               "name": "Thomas, Demaryius",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "10722",
               "salary": "25",
               "position": "WR",
               "name": "Jeffery, Alshon",
-              "team": "PHI"
+              "team": "PHI",
+              "on_trading_block": false
             },
             {
               "id": "13404",
               "salary": "15",
               "position": "RB",
               "name": "Ekeler, Austin",
-              "team": "LAC"
+              "team": "LAC",
+              "on_trading_block": false
             },
             {
               "id": "12176",
               "salary": "12",
               "position": "WR",
               "name": "Parker, DeVante",
-              "team": "MIA"
+              "team": "MIA",
+              "on_trading_block": false
             },
             {
               "id": "0519",
               "salary": "7",
               "position": "Def",
               "name": "Cardinals, Arizona",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "12667",
               "salary": "16",
               "position": "WR",
               "name": "Williams, Duke",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "10932",
               "salary": "16",
               "position": "RB",
               "name": "Bolden, Brandon",
-              "team": "NEP"
+              "team": "NEP",
+              "on_trading_block": false
             },
             {
               "id": "13488",
               "salary": "12",
               "position": "WR",
               "name": "Pascal, Zach",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": false
             },
             {
               "id": "0520",
               "salary": "11",
               "position": "Def",
               "name": "Redskins, Washington",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             }
           ]
         },
@@ -1567,91 +1775,104 @@
               "salary": "20",
               "position": "RB",
               "name": "Murray, Latavius",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": true
             },
             {
               "id": "12626",
               "salary": "35",
               "position": "RB",
               "name": "Henry, Derrick",
-              "team": "TEN"
+              "team": "TEN",
+              "on_trading_block": false
             },
             {
               "id": "14208",
               "salary": "9",
               "position": "WR",
               "name": "Johnson, Diontae",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": true
             },
             {
               "id": "10700",
               "salary": "30",
               "position": "QB",
               "name": "Cousins, Kirk",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             },
             {
               "id": "12930",
               "salary": "18",
               "position": "WR",
               "name": "Anderson, Robby",
-              "team": "CAR"
+              "team": "CAR",
+              "on_trading_block": false
             },
             {
               "id": "14125",
               "salary": "10",
               "position": "WR",
               "name": "Boykin, Miles",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": true
             },
             {
               "id": "0509",
               "salary": "12",
               "position": "Def",
               "name": "Jaguars, Jacksonville",
-              "team": "JAC"
+              "team": "JAC",
+              "on_trading_block": false
             },
             {
               "id": "12630",
               "salary": "16",
               "position": "RB",
               "name": "Drake, Kenyan",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "13131",
               "salary": "20",
               "position": "RB",
               "name": "Mixon, Joe",
-              "team": "CIN"
+              "team": "CIN",
+              "on_trading_block": true
             },
             {
               "id": "13164",
               "salary": "22",
               "position": "WR",
               "name": "Kupp, Cooper",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             },
             {
               "id": "0501",
               "salary": "7",
               "position": "Def",
               "name": "Bills, Buffalo",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "11680",
               "salary": "30",
               "position": "WR",
               "name": "Landry, Jarvis",
-              "team": "CLE"
+              "team": "CLE",
+              "on_trading_block": false
             },
             {
               "id": "12141",
               "salary": "7",
               "position": "QB",
               "name": "Mariota, Marcus",
-              "team": "LVR"
+              "team": "LVR",
+              "on_trading_block": false
             }
           ]
         },
@@ -1666,140 +1887,160 @@
               "salary": "11",
               "position": "WR",
               "name": "Brown, John",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "13319",
               "salary": "18",
               "position": "RB",
               "name": "Jones, Aaron",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "13139",
               "salary": "11",
               "position": "RB",
               "name": "Williams, Jamaal",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "0511",
               "salary": "7",
               "position": "Def",
               "name": "Broncos, Denver",
-              "team": "DEN"
+              "team": "DEN",
+              "on_trading_block": false
             },
             {
               "id": "11640",
               "salary": "9",
               "position": "QB",
               "name": "Bridgewater, Teddy",
-              "team": "CAR"
+              "team": "CAR",
+              "on_trading_block": false
             },
             {
               "id": "12913",
               "salary": "5",
               "position": "WR",
               "name": "Erickson, Alex",
-              "team": "CIN"
+              "team": "CIN",
+              "on_trading_block": false
             },
             {
               "id": "14244",
               "salary": "5",
               "position": "PK",
               "name": "Gay, Matt",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             },
             {
               "id": "13115",
               "salary": "20",
               "position": "QB",
               "name": "Trubisky, Mitchell",
-              "team": "CHI"
+              "team": "CHI",
+              "on_trading_block": false
             },
             {
               "id": "14612",
               "salary": "5",
               "position": "RB",
               "name": "Laird, Patrick",
-              "team": "MIA"
+              "team": "MIA",
+              "on_trading_block": false
             },
             {
               "id": "0526",
               "salary": "5",
               "position": "Def",
               "name": "Falcons, Atlanta",
-              "team": "ATL"
+              "team": "ATL",
+              "on_trading_block": false
             },
             {
               "id": "13168",
               "salary": "5",
               "position": "WR",
               "name": "Reynolds, Josh",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             },
             {
               "id": "13672",
               "salary": "5",
               "position": "TE",
               "name": "Gesicki, Mike",
-              "team": "MIA"
+              "team": "MIA",
+              "on_trading_block": false
             },
             {
               "id": "12785",
               "salary": "5",
               "position": "WR",
               "name": "Robinson, Demarcus",
-              "team": "KCC"
+              "team": "KCC",
+              "on_trading_block": false
             },
             {
               "id": "13793",
               "salary": "5",
               "position": "WR",
               "name": "Valdes-Scantling, Marquez",
-              "team": "GBP"
+              "team": "GBP",
+              "on_trading_block": false
             },
             {
               "id": "14558",
               "salary": "5",
               "position": "WR",
               "name": "Harris, Deonte",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "13649",
               "salary": "5",
               "position": "WR",
               "name": "Hamilton, DaeSean",
-              "team": "DEN"
+              "team": "DEN",
+              "on_trading_block": false
             },
             {
               "id": "13634",
               "salary": "5",
               "position": "WR",
               "name": "Pettis, Dante",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": false
             },
             {
               "id": "13313",
               "salary": "5",
               "position": "WR",
               "name": "McKenzie, Isaiah",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "8670",
               "salary": "5",
               "position": "RB",
               "name": "Lynch, Marshawn",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "14070",
               "salary": "5",
               "position": "QB",
               "name": "Blough, David",
-              "team": "DET"
+              "team": "DET",
+              "on_trading_block": false
             }
           ]
         },
@@ -1814,98 +2055,112 @@
               "salary": "22",
               "position": "WR",
               "name": "Fuller, Will",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": false
             },
             {
               "id": "11951",
               "salary": "15",
               "position": "WR",
               "name": "Snead, Willie",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": false
             },
             {
               "id": "12956",
               "salary": "7",
               "position": "PK",
               "name": "Lutz, Wil",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "10308",
               "salary": "9",
               "position": "WR",
               "name": "Cobb, Randall",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": false
             },
             {
               "id": "10312",
               "salary": "15",
               "position": "TE",
               "name": "Rudolph, Kyle",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             },
             {
               "id": "10973",
               "salary": "9",
               "position": "WR",
               "name": "Beasley, Cole",
-              "team": "BUF"
+              "team": "BUF",
+              "on_trading_block": false
             },
             {
               "id": "0530",
               "salary": "9",
               "position": "Def",
               "name": "49ers, San Francisco",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": false
             },
             {
               "id": "14059",
               "salary": "10",
               "position": "QB",
               "name": "Jones, Daniel",
-              "team": "NYG"
+              "team": "NYG",
+              "on_trading_block": false
             },
             {
               "id": "11227",
               "salary": "12",
               "position": "WR",
               "name": "Stills, Kenny",
-              "team": "HOU"
+              "team": "HOU",
+              "on_trading_block": false
             },
             {
               "id": "12620",
               "salary": "22",
               "position": "QB",
               "name": "Prescott, Dak",
-              "team": "DAL"
+              "team": "DAL",
+              "on_trading_block": false
             },
             {
               "id": "12447",
               "salary": "11",
               "position": "RB",
               "name": "Mostert, Raheem",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": false
             },
             {
               "id": "13850",
               "salary": "5",
               "position": "RB",
               "name": "Edwards, Gus",
-              "team": "BAL"
+              "team": "BAL",
+              "on_trading_block": false
             },
             {
               "id": "7877",
               "salary": "10",
               "position": "RB",
               "name": "Gore, Frank",
-              "team": "FA"
+              "team": "FA",
+              "on_trading_block": false
             },
             {
               "id": "13236",
               "salary": "12",
               "position": "TE",
               "name": "Everett, Gerald",
-              "team": "LAR"
+              "team": "LAR",
+              "on_trading_block": false
             }
           ]
         },
@@ -1920,133 +2175,152 @@
               "salary": "10",
               "position": "WR",
               "name": "Metcalf, DK",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "14058",
               "salary": "10",
               "position": "QB",
               "name": "Haskins, Dwayne",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             },
             {
               "id": "13188",
               "salary": "16",
               "position": "TE",
               "name": "Howard, O.J.",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             },
             {
               "id": "13608",
               "salary": "15",
               "position": "RB",
               "name": "Penny, Rashaad",
-              "team": "SEA"
+              "team": "SEA",
+              "on_trading_block": false
             },
             {
               "id": "14141",
               "salary": "5",
               "position": "TE",
               "name": "Smith Jr., Irv",
-              "team": "MIN"
+              "team": "MIN",
+              "on_trading_block": false
             },
             {
               "id": "10729",
               "salary": "27",
               "position": "WR",
               "name": "Hilton, T.Y.",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": false
             },
             {
               "id": "13605",
               "salary": "15",
               "position": "RB",
               "name": "Guice, Derrius",
-              "team": "WAS"
+              "team": "WAS",
+              "on_trading_block": false
             },
             {
               "id": "14057",
               "salary": "10",
               "position": "QB",
               "name": "Lock, Drew",
-              "team": "DEN"
+              "team": "DEN",
+              "on_trading_block": false
             },
             {
               "id": "13129",
               "salary": "20",
               "position": "RB",
               "name": "Fournette, Leonard",
-              "team": "JAC"
+              "team": "JAC",
+              "on_trading_block": false
             },
             {
               "id": "9075",
               "salary": "5",
               "position": "WR",
               "name": "Jackson, DeSean",
-              "team": "PHI"
+              "team": "PHI",
+              "on_trading_block": false
             },
             {
               "id": "14072",
               "salary": "5",
               "position": "RB",
               "name": "Snell, Benny",
-              "team": "PIT"
+              "team": "PIT",
+              "on_trading_block": false
             },
             {
               "id": "10273",
               "salary": "22",
               "position": "QB",
               "name": "Newton, Cam",
-              "team": "FA*"
+              "team": "FA*",
+              "on_trading_block": false
             },
             {
               "id": "14085",
               "salary": "7",
               "position": "RB",
               "name": "Pollard, Tony",
-              "team": "DAL"
+              "team": "DAL",
+              "on_trading_block": false
             },
             {
               "id": "9902",
               "salary": "5",
               "position": "TE",
               "name": "Gronkowski, Rob",
-              "team": "TBB"
+              "team": "TBB",
+              "on_trading_block": false
             },
             {
               "id": "14121",
               "salary": "5",
               "position": "WR",
               "name": "Isabella, Andy",
-              "team": "ARI"
+              "team": "ARI",
+              "on_trading_block": false
             },
             {
               "id": "13768",
               "salary": "5",
               "position": "RB",
               "name": "Smith, Ito",
-              "team": "ATL"
+              "team": "ATL",
+              "on_trading_block": false
             },
             {
               "id": "14112",
               "salary": "7",
               "position": "WR",
               "name": "Campbell, Parris",
-              "team": "IND"
+              "team": "IND",
+              "on_trading_block": false
             },
             {
               "id": "13645",
               "salary": "5",
               "position": "WR",
               "name": "Smith, Tre'Quan",
-              "team": "NOS"
+              "team": "NOS",
+              "on_trading_block": false
             },
             {
               "id": "14116",
               "salary": "5",
               "position": "WR",
               "name": "Hurd, Jalen",
-              "team": "SFO"
+              "team": "SFO",
+              "on_trading_block": false
             }
           ]
         }

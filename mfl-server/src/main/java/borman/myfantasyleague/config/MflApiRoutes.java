@@ -5,6 +5,7 @@ public class MflApiRoutes {
     private String leagueInfo;
     private String rosterInfo;
     private String playerInfo;
+    private String tradeBlock;
 
     public String getLeagueInfo() {
         return leagueInfo;
@@ -28,5 +29,13 @@ public class MflApiRoutes {
 
     public void setPlayerInfo(String playerInfo) {
         this.playerInfo = playerInfo;
+    }
+
+    public String getTradeBlock() {
+        return tradeBlock;
+    }
+
+    public void setTradeBlock(String tradeBlock) {
+        this.tradeBlock = tradeBlock;
     }
 }

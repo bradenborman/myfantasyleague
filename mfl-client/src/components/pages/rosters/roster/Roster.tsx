@@ -10,10 +10,20 @@ export interface IRosterProps {
 
 export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
   
+  const isTradingBlock = (isTradingBlock: boolean): JSX.Element | JSX.Element[] | null => {
+    if (isTradingBlock)
+      return (
+        <span className="trading-block">(Trading Block)</span>
+      )
+    return null;
+  }
+
     const getPlayers = (): JSX.Element | JSX.Element[] => {
         return props.roster.player.map((player: Player, index: number) => {
             return (
-                <p>{player.name != null ? player.name : "PlayerName "} ({player.position != null ? player.position : " position "}) {player.salary != null ? " $" + player.salary : " salary"}</p>
+              <p>{player.name != null ? player.name : "PlayerName "} ({player.position != null ? player.position : " position "}) {player.salary != null ? " $" + player.salary : " salary"}
+                {isTradingBlock(player.on_trading_block)}
+              </p>
             );
           });
    }

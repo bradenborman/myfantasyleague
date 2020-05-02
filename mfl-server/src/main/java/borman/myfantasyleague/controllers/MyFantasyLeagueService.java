@@ -5,6 +5,8 @@ import borman.myfantasyleague.models.leaguedata.LeagueRequest;
 import borman.myfantasyleague.models.playerdata.PlayerDataRequest;
 import borman.myfantasyleague.models.rosterdata.Player;
 import borman.myfantasyleague.models.rosterdata.RosterRequest;
+import borman.myfantasyleague.models.tradedata.TradeBait;
+import borman.myfantasyleague.models.tradedata.TradeBlockRequest;
 import borman.myfantasyleague.utilities.CrossRefPlayerData;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -37,7 +39,8 @@ class MyFantasyLeagueService {
         PlayerDataRequest allPlayers = getAllPlayers();
 
 
-        CrossRefPlayerData.Process(leagueRequest, allPlayers);
+        CrossRefPlayerData.process(leagueRequest, allPlayers);
+        CrossRefPlayerData.updateTradingBlock(leagueRequest, getTradeBaitData());
 
         return leagueRequest;
     }
@@ -58,7 +61,6 @@ class MyFantasyLeagueService {
         List<Player> playersOnTeam = rosterRequest.getRosters().getFranchise()
                 .getPlayer();
 
-//        playersOnTeam.forEach(this::populatePlayerDetails);
         return playersOnTeam;
     }
 
@@ -71,46 +73,11 @@ class MyFantasyLeagueService {
         ).getBody();
     }
 
-// restTemplate.getForEntity(url.toString(),Object.class).getBody();
 
-//    ResponseEntity<Object> getHeaders() {
-//        HttpHeaders headers = restTemplate.headForHeaders(
-//                "https://api.myfantasyleague.com/2020/login?USERNAME=bradenborman@hotmail.com&PASSWORD=Borm0000$&XML=1"
-//        );
-//
-//        List<String> x = headers.get("Set-Cookie");
-//
-//        String userId = x.get(0);
-////                .replace("MFL_USER_ID=", "");
-//
-//        String password = x.get(1);
-////                .replace("MFL_PW_SEQ=", "");
-//
-//        HttpHeaders headersNew = new HttpHeaders();
-//        headersNew.add("Set-Cookie",userId);
-//        headersNew.add("Set-Cookie",password);
-//
-//        return ResponseEntity.status(HttpStatus.OK).headers(headersNew).body("Ehh");
-//
-//    }
-//
-//    @Deprecated
-//    private void populatePlayerDetails(Player player) {
-//        URI url = UriComponentsBuilder
-//                .fromUriString(myFantasyLeagueProperties.getApiRoutes().getPlayerInfo())
-//                .queryParam("PLAYERS", player.getId())
-//                .build()
-//                .toUri();
-//
-//        Player detailedPlayer = restTemplate.getForEntity(
-//                url.toString(),
-//                PlayerDataRequest.class
-//        ).getBody().getPlayers().getPlayer();
-//
-//        player.setName(detailedPlayer.getName());
-//        player.setTeam(detailedPlayer.getTeam());
-//        player.setPosition(detailedPlayer.getPosition());
-//
-//    }
-
+    private List<TradeBait> getTradeBaitData() {
+        return restTemplate.getForEntity(
+                myFantasyLeagueProperties.getApiRoutes().getTradeBlock(),
+                TradeBlockRequest.class
+        ).getBody().getTradeBaits().getTradeBait();
+    }
 }

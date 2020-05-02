@@ -1,7 +1,8 @@
 export interface Player {
     id: string;
     salary: string;
-    position: any;
-    name: any;
-    team: any;
+    position: string;
+    name: string;
+    team: string;
+    on_trading_block: boolean;
 }
