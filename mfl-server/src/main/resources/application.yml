@@ -2,3 +2,13 @@ spring:
   output:
     ansi:
       enabled: ALWAYS
+
+year: 2020
+
+mfl:
+  league-id: "32291"
+  api-key: "aRxo18CTvuKmx1qmO1vDaDMeE7ox"
+  api-routes:
+    league-info: https://www61.myfantasyleague.com/${year}/export?TYPE=league&L=${mfl.league-id}&APIKEY=${mfl.api-key}&JSON=1
+    roster-info: https://www61.myfantasyleague.com/${year}/export?TYPE=rosters&L=${mfl.league-id}&APIKEY=${mfl.api-key}&JSON=1
+    player-info: https://www61.myfantasyleague.com/${year}/export?TYPE=players&L=${mfl.league-id}&APIKEY=${mfl.api-key}&DETAILS=&SINCE=&JSON=1

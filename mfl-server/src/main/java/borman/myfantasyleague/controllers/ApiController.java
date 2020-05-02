@@ -1,6 +1,6 @@
 package borman.myfantasyleague.controllers;
 
-import borman.myfantasyleague.models.leaguedata.LeagueData;
+import borman.myfantasyleague.models.leaguedata.LeagueRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -14,14 +14,16 @@ public class ApiController {
     @Autowired
     private MyFantasyLeagueService myFantasyLeagueService;
 
+
     @GetMapping("/league-data")
-    public ResponseEntity<LeagueData> getLeagueData() {
-        return myFantasyLeagueService.getLeagueData();
+    public ResponseEntity<LeagueRequest> getLeagueData() {
+        return ResponseEntity.ok(myFantasyLeagueService.getLeagueData());
     }
 
-    @GetMapping("/league-data-2")
-    public ResponseEntity<Object> getLeagueData2() {
-        return myFantasyLeagueService.getLeagueData2();
-    }
+
+//    @GetMapping("/login")
+//    public ResponseEntity<Object> getLogin() {
+//        return myFantasyLeagueService.getHeaders();
+//    }
 
 }

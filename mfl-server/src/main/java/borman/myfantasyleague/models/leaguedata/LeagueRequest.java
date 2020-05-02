@@ -1,6 +1,6 @@
 package borman.myfantasyleague.models.leaguedata;
 
-public class LeagueData {
+public class LeagueRequest {
 
     private String version;
     private League league;
