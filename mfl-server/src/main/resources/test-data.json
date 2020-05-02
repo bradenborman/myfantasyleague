@@ -1,0 +1,2058 @@
+{
+  "version": "1.0",
+  "league": {
+    "franchises": {
+      "count": "16",
+      "franchise": [
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_minnesota_vikings?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Vikings",
+          "id": "0001",
+          "player": [
+            {
+              "id": "13116",
+              "salary": "20",
+              "position": "QB",
+              "name": "Mahomes, Patrick",
+              "team": "KCC"
+            },
+            {
+              "id": "7401",
+              "salary": "5",
+              "position": "QB",
+              "name": "Roethlisberger, Ben",
+              "team": "PIT"
+            },
+            {
+              "id": "13156",
+              "salary": "20",
+              "position": "WR",
+              "name": "Smith-Schuster, JuJu",
+              "team": "PIT"
+            },
+            {
+              "id": "9662",
+              "salary": "25",
+              "position": "WR",
+              "name": "Edelman, Julian",
+              "team": "NEP"
+            },
+            {
+              "id": "13158",
+              "salary": "14",
+              "position": "WR",
+              "name": "Westbrook, Dede",
+              "team": "JAC"
+            },
+            {
+              "id": "10738",
+              "salary": "14",
+              "position": "WR",
+              "name": "Jones, Marvin",
+              "team": "DET"
+            },
+            {
+              "id": "13391",
+              "salary": "5",
+              "position": "TE",
+              "name": "Hollister, Jacob",
+              "team": "SEA"
+            },
+            {
+              "id": "13354",
+              "salary": "7",
+              "position": "PK",
+              "name": "Butker, Harrison",
+              "team": "KCC"
+            },
+            {
+              "id": "13378",
+              "salary": "21",
+              "position": "RB",
+              "name": "Breida, Matt",
+              "team": "MIA"
+            },
+            {
+              "id": "12386",
+              "salary": "5",
+              "position": "RB",
+              "name": "Brown, Malcolm",
+              "team": "LAR"
+            },
+            {
+              "id": "9431",
+              "salary": "34",
+              "position": "QB",
+              "name": "Stafford, Matthew",
+              "team": "DET"
+            },
+            {
+              "id": "14106",
+              "salary": "5",
+              "position": "WR",
+              "name": "Butler, Hakeem",
+              "team": "ARI"
+            },
+            {
+              "id": "12634",
+              "salary": "10",
+              "position": "RB",
+              "name": "Howard, Jordan",
+              "team": "MIA"
+            },
+            {
+              "id": "0527",
+              "salary": "5",
+              "position": "Def",
+              "name": "Panthers, Carolina",
+              "team": "CAR"
+            },
+            {
+              "id": "13193",
+              "salary": "5",
+              "position": "TE",
+              "name": "Smith, Jonnu",
+              "team": "TEN"
+            },
+            {
+              "id": "14284",
+              "salary": "5",
+              "position": "RB",
+              "name": "Thompson, Darwin",
+              "team": "KCC"
+            },
+            {
+              "id": "0505",
+              "salary": "5",
+              "position": "Def",
+              "name": "Jets, New York",
+              "team": "NYJ"
+            },
+            {
+              "id": "13387",
+              "salary": "5",
+              "position": "WR",
+              "name": "Johnson, Marcus",
+              "team": "IND"
+            },
+            {
+              "id": "13290",
+              "salary": "10",
+              "position": "RB",
+              "name": "Cohen, Tarik",
+              "team": "CHI"
+            },
+            {
+              "id": "13128",
+              "salary": "20",
+              "position": "RB",
+              "name": "Cook, Dalvin",
+              "team": "MIN"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_atlanta_falcons?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Falcons",
+          "id": "0002",
+          "player": [
+            {
+              "id": "13604",
+              "salary": "15",
+              "position": "RB",
+              "name": "Barkley, Saquon",
+              "team": "NYG"
+            },
+            {
+              "id": "11675",
+              "salary": "41",
+              "position": "WR",
+              "name": "Adams, Davante",
+              "team": "GBP"
+            },
+            {
+              "id": "12676",
+              "salary": "11",
+              "position": "TE",
+              "name": "Henry, Hunter",
+              "team": "LAC"
+            },
+            {
+              "id": "13146",
+              "salary": "15",
+              "position": "RB",
+              "name": "Conner, James",
+              "team": "PIT"
+            },
+            {
+              "id": "13277",
+              "salary": "20",
+              "position": "WR",
+              "name": "Golladay, Kenny",
+              "team": "DET"
+            },
+            {
+              "id": "13590",
+              "salary": "15",
+              "position": "QB",
+              "name": "Mayfield, Baker",
+              "team": "CLE"
+            },
+            {
+              "id": "14223",
+              "salary": "10",
+              "position": "RB",
+              "name": "Mattison, Alexander",
+              "team": "MIN"
+            },
+            {
+              "id": "13671",
+              "salary": "11",
+              "position": "TE",
+              "name": "Andrews, Mark",
+              "team": "BAL"
+            },
+            {
+              "id": "11674",
+              "salary": "35",
+              "position": "WR",
+              "name": "Cooks, Brandin",
+              "team": "HOU"
+            },
+            {
+              "id": "0510",
+              "salary": "5",
+              "position": "Def",
+              "name": "Steelers, Pittsburgh",
+              "team": "PIT"
+            },
+            {
+              "id": "12650",
+              "salary": "24",
+              "position": "WR",
+              "name": "Boyd, Tyler",
+              "team": "CIN"
+            },
+            {
+              "id": "12151",
+              "salary": "43",
+              "position": "RB",
+              "name": "Gordon, Melvin",
+              "team": "DEN"
+            },
+            {
+              "id": "5848",
+              "salary": "48",
+              "position": "QB",
+              "name": "Brady, Tom",
+              "team": "TBB"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_tampa_bay_buccaneers?layer=comp&fit=constrain&hei=310&wid=310&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Buccaneers",
+          "id": "0003",
+          "player": [
+            {
+              "id": "13610",
+              "salary": "15",
+              "position": "RB",
+              "name": "Chubb, Nick",
+              "team": "CLE"
+            },
+            {
+              "id": "12677",
+              "salary": "12",
+              "position": "TE",
+              "name": "Hooper, Austin",
+              "team": "CLE"
+            },
+            {
+              "id": "14138",
+              "salary": "10",
+              "position": "TE",
+              "name": "Hockenson, T.J.",
+              "team": "DET"
+            },
+            {
+              "id": "9831",
+              "salary": "10",
+              "position": "WR",
+              "name": "Tate, Golden",
+              "team": "NYG"
+            },
+            {
+              "id": "13157",
+              "salary": "11",
+              "position": "WR",
+              "name": "Samuel, Curtis",
+              "team": "CAR"
+            },
+            {
+              "id": "13629",
+              "salary": "15",
+              "position": "WR",
+              "name": "Ridley, Calvin",
+              "team": "ATL"
+            },
+            {
+              "id": "14101",
+              "salary": "5",
+              "position": "WR",
+              "name": "Harry, N'Keal",
+              "team": "NEP"
+            },
+            {
+              "id": "14127",
+              "salary": "5",
+              "position": "WR",
+              "name": "Meyers, Jakobi",
+              "team": "NEP"
+            }
+          ]
+        },
+        {
+          "icon": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dallas_Cowboys.svg/2000px-Dallas_Cowboys.svg.png",
+          "owner_name": null,
+          "name": "Cowboys",
+          "id": "0004",
+          "player": [
+            {
+              "id": "13612",
+              "salary": "15",
+              "position": "RB",
+              "name": "Johnson, Kerryon",
+              "team": "DET"
+            },
+            {
+              "id": "12665",
+              "salary": "12",
+              "position": "WR",
+              "name": "Allison, Geronimo",
+              "team": "DET"
+            },
+            {
+              "id": "12652",
+              "salary": "25",
+              "position": "WR",
+              "name": "Thomas, Michael",
+              "team": "NOS"
+            },
+            {
+              "id": "12152",
+              "salary": "23",
+              "position": "RB",
+              "name": "Coleman, Tevin",
+              "team": "SFO"
+            },
+            {
+              "id": "12625",
+              "salary": "25",
+              "position": "RB",
+              "name": "Elliott, Ezekiel",
+              "team": "DAL"
+            },
+            {
+              "id": "14104",
+              "salary": "10",
+              "position": "WR",
+              "name": "Brown, A.J.",
+              "team": "TEN"
+            },
+            {
+              "id": "14109",
+              "salary": "10",
+              "position": "WR",
+              "name": "McLaurin, Terry",
+              "team": "WAS"
+            },
+            {
+              "id": "8687",
+              "salary": "9",
+              "position": "TE",
+              "name": "Olsen, Greg",
+              "team": "SEA"
+            },
+            {
+              "id": "10703",
+              "salary": "55",
+              "position": "QB",
+              "name": "Wilson, Russell",
+              "team": "SEA"
+            },
+            {
+              "id": "0516",
+              "salary": "8",
+              "position": "Def",
+              "name": "Cowboys, Dallas",
+              "team": "DAL"
+            },
+            {
+              "id": "12616",
+              "salary": "30",
+              "position": "QB",
+              "name": "Brissett, Jacoby",
+              "team": "IND"
+            },
+            {
+              "id": "0529",
+              "salary": "13",
+              "position": "Def",
+              "name": "Saints, New Orleans",
+              "team": "NOS"
+            },
+            {
+              "id": "13613",
+              "salary": "8",
+              "position": "RB",
+              "name": "Samuels, Jaylen",
+              "team": "PIT"
+            },
+            {
+              "id": "14122",
+              "salary": "7",
+              "position": "WR",
+              "name": "Slayton, Darius",
+              "team": "NYG"
+            },
+            {
+              "id": "0507",
+              "salary": "15",
+              "position": "Def",
+              "name": "Browns, Cleveland",
+              "team": "CLE"
+            },
+            {
+              "id": "13674",
+              "salary": "7",
+              "position": "TE",
+              "name": "Goedert, Dallas",
+              "team": "PHI"
+            },
+            {
+              "id": "13424",
+              "salary": "10",
+              "position": "WR",
+              "name": "Hill, Taysom",
+              "team": "NOS"
+            },
+            {
+              "id": "10976",
+              "salary": "15",
+              "position": "PK",
+              "name": "Tucker, Justin",
+              "team": "BAL"
+            },
+            {
+              "id": "11886",
+              "salary": "15",
+              "position": "RB",
+              "name": "Williams, Damien",
+              "team": "KCC"
+            },
+            {
+              "id": "13868",
+              "salary": "20",
+              "position": "RB",
+              "name": "Boone, Mike",
+              "team": "MIN"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_green_bay_packers?layer=comp&fit=constrain&hei=330&wid=330&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Packers",
+          "id": "0005",
+          "player": [
+            {
+              "id": "13163",
+              "salary": "20",
+              "position": "WR",
+              "name": "Godwin, Chris",
+              "team": "TBB"
+            },
+            {
+              "id": "13138",
+              "salary": "20",
+              "position": "RB",
+              "name": "Hunt, Kareem",
+              "team": "CLE"
+            },
+            {
+              "id": "13592",
+              "salary": "15",
+              "position": "QB",
+              "name": "Darnold, Sam",
+              "team": "NYJ"
+            },
+            {
+              "id": "11938",
+              "salary": "25",
+              "position": "WR",
+              "name": "Thielen, Adam",
+              "team": "MIN"
+            },
+            {
+              "id": "12171",
+              "salary": "28",
+              "position": "RB",
+              "name": "Johnson, David",
+              "team": "HOU"
+            },
+            {
+              "id": "9918",
+              "salary": "19",
+              "position": "WR",
+              "name": "Sanders, Emmanuel",
+              "team": "NOS"
+            },
+            {
+              "id": "14136",
+              "salary": "10",
+              "position": "WR",
+              "name": "Samuel, Deebo",
+              "team": "SFO"
+            },
+            {
+              "id": "14137",
+              "salary": "10",
+              "position": "TE",
+              "name": "Fant, Noah",
+              "team": "DEN"
+            },
+            {
+              "id": "14080",
+              "salary": "10",
+              "position": "RB",
+              "name": "Singletary, Devin",
+              "team": "BUF"
+            },
+            {
+              "id": "12263",
+              "salary": "13",
+              "position": "TE",
+              "name": "Waller, Darren",
+              "team": "LVR"
+            },
+            {
+              "id": "0508",
+              "salary": "5",
+              "position": "Def",
+              "name": "Titans, Tennessee",
+              "team": "TEN"
+            },
+            {
+              "id": "7836",
+              "salary": "60",
+              "position": "QB",
+              "name": "Rodgers, Aaron",
+              "team": "GBP"
+            },
+            {
+              "id": "12391",
+              "salary": "15",
+              "position": "WR",
+              "name": "Williams, Tyrell",
+              "team": "LVR"
+            },
+            {
+              "id": "13726",
+              "salary": "10",
+              "position": "RB",
+              "name": "Edmonds, Chase",
+              "team": "ARI"
+            },
+            {
+              "id": "11660",
+              "salary": "26",
+              "position": "RB",
+              "name": "Freeman, Devonta",
+              "team": "FA"
+            },
+            {
+              "id": "12635",
+              "salary": "15",
+              "position": "RB",
+              "name": "Williams, Jonathan",
+              "team": "FA"
+            },
+            {
+              "id": "13632",
+              "salary": "8",
+              "position": "WR",
+              "name": "Lazard, Allen",
+              "team": "GBP"
+            },
+            {
+              "id": "14618",
+              "salary": "14",
+              "position": "QB",
+              "name": "Hodges, Devlin",
+              "team": "PIT"
+            },
+            {
+              "id": "13642",
+              "salary": "13",
+              "position": "WR",
+              "name": "Tate, Auden",
+              "team": "CIN"
+            },
+            {
+              "id": "11387",
+              "salary": "10",
+              "position": "PK",
+              "name": "Hopkins, Dustin",
+              "team": "WAS"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_jacksonville_jaguars?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Jaguars",
+          "id": "0006",
+          "player": [
+            {
+              "id": "11760",
+              "salary": "17",
+              "position": "QB",
+              "name": "Garoppolo, Jimmy",
+              "team": "SFO"
+            },
+            {
+              "id": "13299",
+              "salary": "16",
+              "position": "TE",
+              "name": "Kittle, George",
+              "team": "SFO"
+            },
+            {
+              "id": "13635",
+              "salary": "15",
+              "position": "WR",
+              "name": "Moore, D.J.",
+              "team": "CAR"
+            },
+            {
+              "id": "13589",
+              "salary": "15",
+              "position": "QB",
+              "name": "Allen, Josh",
+              "team": "BUF"
+            },
+            {
+              "id": "13606",
+              "salary": "12",
+              "position": "RB",
+              "name": "Jones, Ronald",
+              "team": "TBB"
+            },
+            {
+              "id": "14071",
+              "salary": "10",
+              "position": "RB",
+              "name": "Montgomery, David",
+              "team": "CHI"
+            },
+            {
+              "id": "14126",
+              "salary": "5",
+              "position": "WR",
+              "name": "Williams, Preston",
+              "team": "MIA"
+            },
+            {
+              "id": "13630",
+              "salary": "21",
+              "position": "WR",
+              "name": "Sutton, Courtland",
+              "team": "DEN"
+            },
+            {
+              "id": "11192",
+              "salary": "49",
+              "position": "RB",
+              "name": "Bell, Le'Veon",
+              "team": "NYJ"
+            },
+            {
+              "id": "12175",
+              "salary": "38",
+              "position": "WR",
+              "name": "Cooper, Amari",
+              "team": "DAL"
+            },
+            {
+              "id": "12186",
+              "salary": "26",
+              "position": "WR",
+              "name": "Diggs, Stefon",
+              "team": "BUF"
+            },
+            {
+              "id": "9988",
+              "salary": "5",
+              "position": "WR",
+              "name": "Brown, Antonio",
+              "team": "FA*"
+            },
+            {
+              "id": "14305",
+              "salary": "5",
+              "position": "WR",
+              "name": "Johnson, Olabisi",
+              "team": "MIN"
+            },
+            {
+              "id": "13189",
+              "salary": "16",
+              "position": "TE",
+              "name": "Engram, Evan",
+              "team": "NYG"
+            },
+            {
+              "id": "14079",
+              "salary": "10",
+              "position": "RB",
+              "name": "Sanders, Miles",
+              "team": "PHI"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_denver_broncos?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Broncos",
+          "id": "0007",
+          "player": [
+            {
+              "id": "12153",
+              "salary": "5",
+              "position": "RB",
+              "name": "Yeldon, T.J.",
+              "team": "BUF"
+            },
+            {
+              "id": "12184",
+              "salary": "5",
+              "position": "WR",
+              "name": "Crowder, Jamison",
+              "team": "NYJ"
+            },
+            {
+              "id": "11250",
+              "salary": "5",
+              "position": "TE",
+              "name": "Eifert, Tyler",
+              "team": "JAC"
+            },
+            {
+              "id": "10708",
+              "salary": "5",
+              "position": "RB",
+              "name": "Miller, Lamar",
+              "team": "FA"
+            },
+            {
+              "id": "11975",
+              "salary": "10",
+              "position": "WR",
+              "name": "Gabriel, Taylor",
+              "team": "FA"
+            },
+            {
+              "id": "14087",
+              "salary": "10",
+              "position": "RB",
+              "name": "Henderson, Darrell",
+              "team": "LAR"
+            },
+            {
+              "id": "10948",
+              "salary": "20",
+              "position": "QB",
+              "name": "Keenum, Case",
+              "team": "CLE"
+            },
+            {
+              "id": "10699",
+              "salary": "5",
+              "position": "QB",
+              "name": "Foles, Nick",
+              "team": "CHI"
+            },
+            {
+              "id": "12205",
+              "salary": "5",
+              "position": "WR",
+              "name": "Funchess, Devin",
+              "team": "GBP"
+            },
+            {
+              "id": "13192",
+              "salary": "5",
+              "position": "TE",
+              "name": "Njoku, David",
+              "team": "CLE"
+            },
+            {
+              "id": "13631",
+              "salary": "5",
+              "position": "WR",
+              "name": "Washington, James",
+              "team": "PIT"
+            },
+            {
+              "id": "13639",
+              "salary": "5",
+              "position": "WR",
+              "name": "Miller, Anthony",
+              "team": "CHI"
+            },
+            {
+              "id": "14317",
+              "salary": "5",
+              "position": "WR",
+              "name": "Doss, Keelan",
+              "team": "LVR"
+            },
+            {
+              "id": "10960",
+              "salary": "20",
+              "position": "WR",
+              "name": "Gordon, Josh",
+              "team": "FA"
+            },
+            {
+              "id": "12610",
+              "salary": "25",
+              "position": "QB",
+              "name": "Wentz, Carson",
+              "team": "PHI"
+            },
+            {
+              "id": "13132",
+              "salary": "20",
+              "position": "RB",
+              "name": "Kamara, Alvin",
+              "team": "NOS"
+            },
+            {
+              "id": "12801",
+              "salary": "25",
+              "position": "WR",
+              "name": "Hill, Tyreek",
+              "team": "KCC"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_kansas_city_chiefs?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Chiefs",
+          "id": "0008",
+          "player": [
+            {
+              "id": "13593",
+              "salary": "15",
+              "position": "QB",
+              "name": "Jackson, Lamar",
+              "team": "BAL"
+            },
+            {
+              "id": "13633",
+              "salary": "15",
+              "position": "WR",
+              "name": "Kirk, Christian",
+              "team": "ARI"
+            },
+            {
+              "id": "14086",
+              "salary": "10",
+              "position": "RB",
+              "name": "Hill, Justice",
+              "team": "BAL"
+            },
+            {
+              "id": "11679",
+              "salary": "48",
+              "position": "WR",
+              "name": "Beckham, Odell",
+              "team": "CLE"
+            },
+            {
+              "id": "11644",
+              "salary": "52",
+              "position": "QB",
+              "name": "Carr, Derek",
+              "team": "LVR"
+            },
+            {
+              "id": "0531",
+              "salary": "12",
+              "position": "Def",
+              "name": "Ravens, Baltimore",
+              "team": "BAL"
+            },
+            {
+              "id": "11670",
+              "salary": "24",
+              "position": "WR",
+              "name": "Watkins, Sammy",
+              "team": "KCC"
+            },
+            {
+              "id": "11695",
+              "salary": "18",
+              "position": "TE",
+              "name": "Ebron, Eric",
+              "team": "PIT"
+            },
+            {
+              "id": "11657",
+              "salary": "8",
+              "position": "RB",
+              "name": "Hyde, Carlos",
+              "team": "FA"
+            },
+            {
+              "id": "11193",
+              "salary": "5",
+              "position": "RB",
+              "name": "Bernard, Giovani",
+              "team": "CIN"
+            },
+            {
+              "id": "13871",
+              "salary": "20",
+              "position": "RB",
+              "name": "Hilliard, Dontrell",
+              "team": "CLE"
+            },
+            {
+              "id": "11177",
+              "salary": "15",
+              "position": "RB",
+              "name": "Barner, Kenjon",
+              "team": "FA"
+            },
+            {
+              "id": "13347",
+              "salary": "8",
+              "position": "PK",
+              "name": "Gonzalez, Zane",
+              "team": "ARI"
+            },
+            {
+              "id": "13594",
+              "salary": "12",
+              "position": "QB",
+              "name": "Falk, Luke",
+              "team": "FA"
+            },
+            {
+              "id": "0525",
+              "salary": "11",
+              "position": "Def",
+              "name": "Buccaneers, Tampa Bay",
+              "team": "TBB"
+            },
+            {
+              "id": "13763",
+              "salary": "9",
+              "position": "TE",
+              "name": "Dissly, Will",
+              "team": "SEA"
+            },
+            {
+              "id": "12464",
+              "salary": "9",
+              "position": "WR",
+              "name": "Byrd, Damiere",
+              "team": "NEP"
+            },
+            {
+              "id": "8930",
+              "salary": "8",
+              "position": "PK",
+              "name": "Prater, Matt",
+              "team": "DET"
+            },
+            {
+              "id": "13863",
+              "salary": "24",
+              "position": "WR",
+              "name": "Pringle, Byron",
+              "team": "KCC"
+            },
+            {
+              "id": "14613",
+              "salary": "17",
+              "position": "WR",
+              "name": "Sims, Steven",
+              "team": "WAS"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_arizona_cardinals?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Cardinals ",
+          "id": "0009",
+          "player": [
+            {
+              "id": "12611",
+              "salary": "25",
+              "position": "QB",
+              "name": "Goff, Jared",
+              "team": "LAR"
+            },
+            {
+              "id": "13154",
+              "salary": "20",
+              "position": "WR",
+              "name": "Williams, Mike",
+              "team": "LAC"
+            },
+            {
+              "id": "13646",
+              "salary": "15",
+              "position": "WR",
+              "name": "Gallup, Michael",
+              "team": "DAL"
+            },
+            {
+              "id": "13130",
+              "salary": "20",
+              "position": "RB",
+              "name": "McCaffrey, Christian",
+              "team": "CAR"
+            },
+            {
+              "id": "13607",
+              "salary": "15",
+              "position": "RB",
+              "name": "Michel, Sony",
+              "team": "NEP"
+            },
+            {
+              "id": "11247",
+              "salary": "28",
+              "position": "TE",
+              "name": "Ertz, Zach",
+              "team": "PHI"
+            },
+            {
+              "id": "14073",
+              "salary": "10",
+              "position": "RB",
+              "name": "Jacobs, Josh",
+              "team": "LVR"
+            },
+            {
+              "id": "14113",
+              "salary": "10",
+              "position": "WR",
+              "name": "Hardman, Mecole",
+              "team": "KCC"
+            },
+            {
+              "id": "10868",
+              "salary": "10",
+              "position": "PK",
+              "name": "Zuerlein, Greg",
+              "team": "DAL"
+            },
+            {
+              "id": "0532",
+              "salary": "9",
+              "position": "Def",
+              "name": "Texans, Houston",
+              "team": "HOU"
+            },
+            {
+              "id": "10271",
+              "salary": "49",
+              "position": "WR",
+              "name": "Jones, Julio",
+              "team": "ATL"
+            },
+            {
+              "id": "12505",
+              "salary": "13",
+              "position": "WR",
+              "name": "Humphries, Adam",
+              "team": "TEN"
+            },
+            {
+              "id": "0524",
+              "salary": "5",
+              "position": "Def",
+              "name": "Vikings, Minnesota",
+              "team": "MIN"
+            },
+            {
+              "id": "11758",
+              "salary": "8",
+              "position": "WR",
+              "name": "Latimer, Cody",
+              "team": "WAS"
+            },
+            {
+              "id": "10697",
+              "salary": "10",
+              "position": "QB",
+              "name": "Tannehill, Ryan",
+              "team": "TEN"
+            },
+            {
+              "id": "14063",
+              "salary": "5",
+              "position": "QB",
+              "name": "Stidham, Jarrett",
+              "team": "NEP"
+            },
+            {
+              "id": "12857",
+              "salary": "46",
+              "position": "RB",
+              "name": "Washington, DeAndre",
+              "team": "KCC"
+            },
+            {
+              "id": "12197",
+              "salary": "22",
+              "position": "WR",
+              "name": "Perriman, Breshad",
+              "team": "NYJ"
+            },
+            {
+              "id": "12678",
+              "salary": "14",
+              "position": "TE",
+              "name": "Higbee, Tyler",
+              "team": "LAR"
+            },
+            {
+              "id": "13864",
+              "salary": "11",
+              "position": "WR",
+              "name": "Ward, Greg",
+              "team": "PHI"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_pittsburgh_steelers?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Steelers",
+          "id": "0010",
+          "player": [
+            {
+              "id": "11222",
+              "salary": "42",
+              "position": "WR",
+              "name": "Allen, Keenan",
+              "team": "LAC"
+            },
+            {
+              "id": "11747",
+              "salary": "20",
+              "position": "RB",
+              "name": "White, James",
+              "team": "NEP"
+            },
+            {
+              "id": "12257",
+              "salary": "5",
+              "position": "WR",
+              "name": "Conley, Chris",
+              "team": "JAC"
+            },
+            {
+              "id": "8673",
+              "salary": "5",
+              "position": "WR",
+              "name": "Ginn Jr., Ted",
+              "team": "CHI"
+            },
+            {
+              "id": "13668",
+              "salary": "5",
+              "position": "WR",
+              "name": "Chark, D.J.",
+              "team": "JAC"
+            },
+            {
+              "id": "0522",
+              "salary": "5",
+              "position": "Def",
+              "name": "Lions, Detroit",
+              "team": "DET"
+            },
+            {
+              "id": "14105",
+              "salary": "10",
+              "position": "WR",
+              "name": "Brown, Marquise",
+              "team": "BAL"
+            },
+            {
+              "id": "14067",
+              "salary": "50",
+              "position": "QB",
+              "name": "Minshew, Gardner",
+              "team": "JAC"
+            },
+            {
+              "id": "13617",
+              "salary": "15",
+              "position": "RB",
+              "name": "Freeman, Royce",
+              "team": "DEN"
+            },
+            {
+              "id": "11257",
+              "salary": "12",
+              "position": "TE",
+              "name": "McDonald, Vance",
+              "team": "PIT"
+            },
+            {
+              "id": "13148",
+              "salary": "10",
+              "position": "RB",
+              "name": "Ogunbowale, Dare",
+              "team": "TBB"
+            },
+            {
+              "id": "0502",
+              "salary": "5",
+              "position": "Def",
+              "name": "Colts, Indianapolis",
+              "team": "IND"
+            },
+            {
+              "id": "12157",
+              "salary": "25",
+              "position": "RB",
+              "name": "Johnson, Duke",
+              "team": "HOU"
+            },
+            {
+              "id": "11678",
+              "salary": "22",
+              "position": "WR",
+              "name": "Robinson, Allen",
+              "team": "CHI"
+            },
+            {
+              "id": "13382",
+              "salary": "5",
+              "position": "TE",
+              "name": "Seals-Jones, Ricky",
+              "team": "KCC"
+            },
+            {
+              "id": "8944",
+              "salary": "36",
+              "position": "QB",
+              "name": "Moore, Matt",
+              "team": "FA"
+            },
+            {
+              "id": "13234",
+              "salary": "16",
+              "position": "RB",
+              "name": "Mack, Marlon",
+              "team": "IND"
+            },
+            {
+              "id": "9099",
+              "salary": "51",
+              "position": "QB",
+              "name": "Ryan, Matt",
+              "team": "ATL"
+            },
+            {
+              "id": "11936",
+              "salary": "5",
+              "position": "PK",
+              "name": "Boswell, Chris",
+              "team": "PIT"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_buffalo_bills?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Bills",
+          "id": "0011",
+          "player": [
+            {
+              "id": "13113",
+              "salary": "20",
+              "position": "QB",
+              "name": "Watson, Deshaun",
+              "team": "HOU"
+            },
+            {
+              "id": "11232",
+              "salary": "45",
+              "position": "WR",
+              "name": "Hopkins, DeAndre",
+              "team": "ARI"
+            },
+            {
+              "id": "11671",
+              "salary": "37",
+              "position": "WR",
+              "name": "Evans, Mike",
+              "team": "TBB"
+            },
+            {
+              "id": "13364",
+              "salary": "20",
+              "position": "RB",
+              "name": "Carson, Chris",
+              "team": "SEA"
+            },
+            {
+              "id": "12187",
+              "salary": "21",
+              "position": "WR",
+              "name": "Lockett, Tyler",
+              "team": "SEA"
+            },
+            {
+              "id": "12658",
+              "salary": "18",
+              "position": "WR",
+              "name": "Shepard, Sterling",
+              "team": "NYG"
+            },
+            {
+              "id": "14124",
+              "salary": "7",
+              "position": "WR",
+              "name": "Johnson, KeeSean",
+              "team": "ARI"
+            },
+            {
+              "id": "10261",
+              "salary": "22",
+              "position": "WR",
+              "name": "Green, A.J.",
+              "team": "CIN"
+            },
+            {
+              "id": "8658",
+              "salary": "8",
+              "position": "RB",
+              "name": "Peterson, Adrian",
+              "team": "WAS"
+            },
+            {
+              "id": "11516",
+              "salary": "7",
+              "position": "TE",
+              "name": "Doyle, Jack",
+              "team": "IND"
+            },
+            {
+              "id": "14123",
+              "salary": "7",
+              "position": "WR",
+              "name": "Renfrow, Hunter",
+              "team": "LVR"
+            },
+            {
+              "id": "9308",
+              "salary": "8",
+              "position": "WR",
+              "name": "Amendola, Danny",
+              "team": "DET"
+            },
+            {
+              "id": "13662",
+              "salary": "7",
+              "position": "WR",
+              "name": "Coutee, Keke",
+              "team": "HOU"
+            },
+            {
+              "id": "0521",
+              "salary": "8",
+              "position": "Def",
+              "name": "Bears, Chicago",
+              "team": "CHI"
+            },
+            {
+              "id": "11850",
+              "salary": "5",
+              "position": "WR",
+              "name": "Enunwa, Quincy",
+              "team": "NYJ"
+            },
+            {
+              "id": "13595",
+              "salary": "5",
+              "position": "QB",
+              "name": "Rudolph, Mason",
+              "team": "PIT"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_new_orleans_saints?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Saints",
+          "id": "0012",
+          "player": [
+            {
+              "id": "10389",
+              "salary": "20",
+              "position": "RB",
+              "name": "Lewis, Dion",
+              "team": "NYG"
+            },
+            {
+              "id": "11228",
+              "salary": "21",
+              "position": "WR",
+              "name": "Woods, Robert",
+              "team": "LAR"
+            },
+            {
+              "id": "9474",
+              "salary": "12",
+              "position": "TE",
+              "name": "Cook, Jared",
+              "team": "NOS"
+            },
+            {
+              "id": "10313",
+              "salary": "42",
+              "position": "QB",
+              "name": "Dalton, Andy",
+              "team": "FA"
+            },
+            {
+              "id": "14056",
+              "salary": "10",
+              "position": "QB",
+              "name": "Murray, Kyler",
+              "team": "ARI"
+            },
+            {
+              "id": "13622",
+              "salary": "14",
+              "position": "RB",
+              "name": "Hines, Nyheim",
+              "team": "IND"
+            },
+            {
+              "id": "13165",
+              "salary": "5",
+              "position": "WR",
+              "name": "Switzer, Ryan",
+              "team": "PIT"
+            },
+            {
+              "id": "12814",
+              "salary": "12",
+              "position": "WR",
+              "name": "Grant, Jakeem",
+              "team": "MIA"
+            },
+            {
+              "id": "12637",
+              "salary": "12",
+              "position": "RB",
+              "name": "Barber, Peyton",
+              "team": "WAS"
+            },
+            {
+              "id": "8742",
+              "salary": "10",
+              "position": "PK",
+              "name": "Crosby, Mason",
+              "team": "GBP"
+            },
+            {
+              "id": "11244",
+              "salary": "34",
+              "position": "TE",
+              "name": "Kelce, Travis",
+              "team": "KCC"
+            },
+            {
+              "id": "9884",
+              "salary": "39",
+              "position": "WR",
+              "name": "Thomas, Demaryius",
+              "team": "FA"
+            },
+            {
+              "id": "10722",
+              "salary": "25",
+              "position": "WR",
+              "name": "Jeffery, Alshon",
+              "team": "PHI"
+            },
+            {
+              "id": "13404",
+              "salary": "15",
+              "position": "RB",
+              "name": "Ekeler, Austin",
+              "team": "LAC"
+            },
+            {
+              "id": "12176",
+              "salary": "12",
+              "position": "WR",
+              "name": "Parker, DeVante",
+              "team": "MIA"
+            },
+            {
+              "id": "0519",
+              "salary": "7",
+              "position": "Def",
+              "name": "Cardinals, Arizona",
+              "team": "ARI"
+            },
+            {
+              "id": "12667",
+              "salary": "16",
+              "position": "WR",
+              "name": "Williams, Duke",
+              "team": "BUF"
+            },
+            {
+              "id": "10932",
+              "salary": "16",
+              "position": "RB",
+              "name": "Bolden, Brandon",
+              "team": "NEP"
+            },
+            {
+              "id": "13488",
+              "salary": "12",
+              "position": "WR",
+              "name": "Pascal, Zach",
+              "team": "IND"
+            },
+            {
+              "id": "0520",
+              "salary": "11",
+              "position": "Def",
+              "name": "Redskins, Washington",
+              "team": "WAS"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_oakland_raiders?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Raiders",
+          "id": "0013",
+          "player": [
+            {
+              "id": "11390",
+              "salary": "20",
+              "position": "RB",
+              "name": "Murray, Latavius",
+              "team": "NOS"
+            },
+            {
+              "id": "12626",
+              "salary": "35",
+              "position": "RB",
+              "name": "Henry, Derrick",
+              "team": "TEN"
+            },
+            {
+              "id": "14208",
+              "salary": "9",
+              "position": "WR",
+              "name": "Johnson, Diontae",
+              "team": "PIT"
+            },
+            {
+              "id": "10700",
+              "salary": "30",
+              "position": "QB",
+              "name": "Cousins, Kirk",
+              "team": "MIN"
+            },
+            {
+              "id": "12930",
+              "salary": "18",
+              "position": "WR",
+              "name": "Anderson, Robby",
+              "team": "CAR"
+            },
+            {
+              "id": "14125",
+              "salary": "10",
+              "position": "WR",
+              "name": "Boykin, Miles",
+              "team": "BAL"
+            },
+            {
+              "id": "0509",
+              "salary": "12",
+              "position": "Def",
+              "name": "Jaguars, Jacksonville",
+              "team": "JAC"
+            },
+            {
+              "id": "12630",
+              "salary": "16",
+              "position": "RB",
+              "name": "Drake, Kenyan",
+              "team": "ARI"
+            },
+            {
+              "id": "13131",
+              "salary": "20",
+              "position": "RB",
+              "name": "Mixon, Joe",
+              "team": "CIN"
+            },
+            {
+              "id": "13164",
+              "salary": "22",
+              "position": "WR",
+              "name": "Kupp, Cooper",
+              "team": "LAR"
+            },
+            {
+              "id": "0501",
+              "salary": "7",
+              "position": "Def",
+              "name": "Bills, Buffalo",
+              "team": "BUF"
+            },
+            {
+              "id": "11680",
+              "salary": "30",
+              "position": "WR",
+              "name": "Landry, Jarvis",
+              "team": "CLE"
+            },
+            {
+              "id": "12141",
+              "salary": "7",
+              "position": "QB",
+              "name": "Mariota, Marcus",
+              "team": "LVR"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_baltimore_ravens?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Ravens",
+          "id": "0014",
+          "player": [
+            {
+              "id": "11783",
+              "salary": "11",
+              "position": "WR",
+              "name": "Brown, John",
+              "team": "BUF"
+            },
+            {
+              "id": "13319",
+              "salary": "18",
+              "position": "RB",
+              "name": "Jones, Aaron",
+              "team": "GBP"
+            },
+            {
+              "id": "13139",
+              "salary": "11",
+              "position": "RB",
+              "name": "Williams, Jamaal",
+              "team": "GBP"
+            },
+            {
+              "id": "0511",
+              "salary": "7",
+              "position": "Def",
+              "name": "Broncos, Denver",
+              "team": "DEN"
+            },
+            {
+              "id": "11640",
+              "salary": "9",
+              "position": "QB",
+              "name": "Bridgewater, Teddy",
+              "team": "CAR"
+            },
+            {
+              "id": "12913",
+              "salary": "5",
+              "position": "WR",
+              "name": "Erickson, Alex",
+              "team": "CIN"
+            },
+            {
+              "id": "14244",
+              "salary": "5",
+              "position": "PK",
+              "name": "Gay, Matt",
+              "team": "TBB"
+            },
+            {
+              "id": "13115",
+              "salary": "20",
+              "position": "QB",
+              "name": "Trubisky, Mitchell",
+              "team": "CHI"
+            },
+            {
+              "id": "14612",
+              "salary": "5",
+              "position": "RB",
+              "name": "Laird, Patrick",
+              "team": "MIA"
+            },
+            {
+              "id": "0526",
+              "salary": "5",
+              "position": "Def",
+              "name": "Falcons, Atlanta",
+              "team": "ATL"
+            },
+            {
+              "id": "13168",
+              "salary": "5",
+              "position": "WR",
+              "name": "Reynolds, Josh",
+              "team": "LAR"
+            },
+            {
+              "id": "13672",
+              "salary": "5",
+              "position": "TE",
+              "name": "Gesicki, Mike",
+              "team": "MIA"
+            },
+            {
+              "id": "12785",
+              "salary": "5",
+              "position": "WR",
+              "name": "Robinson, Demarcus",
+              "team": "KCC"
+            },
+            {
+              "id": "13793",
+              "salary": "5",
+              "position": "WR",
+              "name": "Valdes-Scantling, Marquez",
+              "team": "GBP"
+            },
+            {
+              "id": "14558",
+              "salary": "5",
+              "position": "WR",
+              "name": "Harris, Deonte",
+              "team": "NOS"
+            },
+            {
+              "id": "13649",
+              "salary": "5",
+              "position": "WR",
+              "name": "Hamilton, DaeSean",
+              "team": "DEN"
+            },
+            {
+              "id": "13634",
+              "salary": "5",
+              "position": "WR",
+              "name": "Pettis, Dante",
+              "team": "SFO"
+            },
+            {
+              "id": "13313",
+              "salary": "5",
+              "position": "WR",
+              "name": "McKenzie, Isaiah",
+              "team": "BUF"
+            },
+            {
+              "id": "8670",
+              "salary": "5",
+              "position": "RB",
+              "name": "Lynch, Marshawn",
+              "team": "FA"
+            },
+            {
+              "id": "14070",
+              "salary": "5",
+              "position": "QB",
+              "name": "Blough, David",
+              "team": "DET"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_seattle_seahawks?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Seahawks",
+          "id": "0015",
+          "player": [
+            {
+              "id": "12647",
+              "salary": "22",
+              "position": "WR",
+              "name": "Fuller, Will",
+              "team": "HOU"
+            },
+            {
+              "id": "11951",
+              "salary": "15",
+              "position": "WR",
+              "name": "Snead, Willie",
+              "team": "BAL"
+            },
+            {
+              "id": "12956",
+              "salary": "7",
+              "position": "PK",
+              "name": "Lutz, Wil",
+              "team": "NOS"
+            },
+            {
+              "id": "10308",
+              "salary": "9",
+              "position": "WR",
+              "name": "Cobb, Randall",
+              "team": "HOU"
+            },
+            {
+              "id": "10312",
+              "salary": "15",
+              "position": "TE",
+              "name": "Rudolph, Kyle",
+              "team": "MIN"
+            },
+            {
+              "id": "10973",
+              "salary": "9",
+              "position": "WR",
+              "name": "Beasley, Cole",
+              "team": "BUF"
+            },
+            {
+              "id": "0530",
+              "salary": "9",
+              "position": "Def",
+              "name": "49ers, San Francisco",
+              "team": "SFO"
+            },
+            {
+              "id": "14059",
+              "salary": "10",
+              "position": "QB",
+              "name": "Jones, Daniel",
+              "team": "NYG"
+            },
+            {
+              "id": "11227",
+              "salary": "12",
+              "position": "WR",
+              "name": "Stills, Kenny",
+              "team": "HOU"
+            },
+            {
+              "id": "12620",
+              "salary": "22",
+              "position": "QB",
+              "name": "Prescott, Dak",
+              "team": "DAL"
+            },
+            {
+              "id": "12447",
+              "salary": "11",
+              "position": "RB",
+              "name": "Mostert, Raheem",
+              "team": "SFO"
+            },
+            {
+              "id": "13850",
+              "salary": "5",
+              "position": "RB",
+              "name": "Edwards, Gus",
+              "team": "BAL"
+            },
+            {
+              "id": "7877",
+              "salary": "10",
+              "position": "RB",
+              "name": "Gore, Frank",
+              "team": "FA"
+            },
+            {
+              "id": "13236",
+              "salary": "12",
+              "position": "TE",
+              "name": "Everett, Gerald",
+              "team": "LAR"
+            }
+          ]
+        },
+        {
+          "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_miami_dolphins?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
+          "owner_name": null,
+          "name": "Dolphins",
+          "id": "0016",
+          "player": [
+            {
+              "id": "14102",
+              "salary": "10",
+              "position": "WR",
+              "name": "Metcalf, DK",
+              "team": "SEA"
+            },
+            {
+              "id": "14058",
+              "salary": "10",
+              "position": "QB",
+              "name": "Haskins, Dwayne",
+              "team": "WAS"
+            },
+            {
+              "id": "13188",
+              "salary": "16",
+              "position": "TE",
+              "name": "Howard, O.J.",
+              "team": "TBB"
+            },
+            {
+              "id": "13608",
+              "salary": "15",
+              "position": "RB",
+              "name": "Penny, Rashaad",
+              "team": "SEA"
+            },
+            {
+              "id": "14141",
+              "salary": "5",
+              "position": "TE",
+              "name": "Smith Jr., Irv",
+              "team": "MIN"
+            },
+            {
+              "id": "10729",
+              "salary": "27",
+              "position": "WR",
+              "name": "Hilton, T.Y.",
+              "team": "IND"
+            },
+            {
+              "id": "13605",
+              "salary": "15",
+              "position": "RB",
+              "name": "Guice, Derrius",
+              "team": "WAS"
+            },
+            {
+              "id": "14057",
+              "salary": "10",
+              "position": "QB",
+              "name": "Lock, Drew",
+              "team": "DEN"
+            },
+            {
+              "id": "13129",
+              "salary": "20",
+              "position": "RB",
+              "name": "Fournette, Leonard",
+              "team": "JAC"
+            },
+            {
+              "id": "9075",
+              "salary": "5",
+              "position": "WR",
+              "name": "Jackson, DeSean",
+              "team": "PHI"
+            },
+            {
+              "id": "14072",
+              "salary": "5",
+              "position": "RB",
+              "name": "Snell, Benny",
+              "team": "PIT"
+            },
+            {
+              "id": "10273",
+              "salary": "22",
+              "position": "QB",
+              "name": "Newton, Cam",
+              "team": "FA*"
+            },
+            {
+              "id": "14085",
+              "salary": "7",
+              "position": "RB",
+              "name": "Pollard, Tony",
+              "team": "DAL"
+            },
+            {
+              "id": "9902",
+              "salary": "5",
+              "position": "TE",
+              "name": "Gronkowski, Rob",
+              "team": "TBB"
+            },
+            {
+              "id": "14121",
+              "salary": "5",
+              "position": "WR",
+              "name": "Isabella, Andy",
+              "team": "ARI"
+            },
+            {
+              "id": "13768",
+              "salary": "5",
+              "position": "RB",
+              "name": "Smith, Ito",
+              "team": "ATL"
+            },
+            {
+              "id": "14112",
+              "salary": "7",
+              "position": "WR",
+              "name": "Campbell, Parris",
+              "team": "IND"
+            },
+            {
+              "id": "13645",
+              "salary": "5",
+              "position": "WR",
+              "name": "Smith, Tre'Quan",
+              "team": "NOS"
+            },
+            {
+              "id": "14116",
+              "salary": "5",
+              "position": "WR",
+              "name": "Hurd, Jalen",
+              "team": "SFO"
+            }
+          ]
+        }
+      ]
+    },
+    "name": "Borman Dynasty League",
+    "base_url": null
+  }
+}

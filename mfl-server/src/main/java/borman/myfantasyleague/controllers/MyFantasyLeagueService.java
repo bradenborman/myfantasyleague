@@ -5,6 +5,7 @@ import borman.myfantasyleague.models.leaguedata.LeagueRequest;
 import borman.myfantasyleague.models.playerdata.PlayerDataRequest;
 import borman.myfantasyleague.models.rosterdata.Player;
 import borman.myfantasyleague.models.rosterdata.RosterRequest;
+import borman.myfantasyleague.utilities.CrossRefPlayerData;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -35,6 +36,9 @@ class MyFantasyLeagueService {
 
         PlayerDataRequest allPlayers = getAllPlayers();
 
+
+        CrossRefPlayerData.Process(leagueRequest, allPlayers);
+
         return leagueRequest;
     }
 
@@ -59,7 +63,7 @@ class MyFantasyLeagueService {
     }
 
 
-
+    //TODO make cachable
     private PlayerDataRequest getAllPlayers() {
         return restTemplate.getForEntity(
                 myFantasyLeagueProperties.getApiRoutes().getPlayerInfo(),

@@ -1,5 +1,9 @@
 package borman.myfantasyleague.models.leaguedata;
 
+import com.fasterxml.jackson.databind.PropertyNamingStrategy;
+import com.fasterxml.jackson.databind.annotation.JsonNaming;
+
+@JsonNaming(PropertyNamingStrategy.SnakeCaseStrategy.class)
 public class League {
 
     private FranchiseData franchises;
