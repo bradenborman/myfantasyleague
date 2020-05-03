@@ -10,14 +10,12 @@ import {
 import { Navbar } from "./navbar/Navbar";
 import { Rosters } from "./pages/rosters/Rosters";
 import { LeagueData } from "../models/leagueData";
-import { Link } from "@material-ui/core";
 
 require("./app.scss");
 
 export interface IAppProps {}
 
 export const App: React.FC<IAppProps> = (props: IAppProps) => {
-  
 
   const [leagueData, setLeagueData] = useState<LeagueData>(),
   [fetching, setFetching] = useState<boolean>(true),

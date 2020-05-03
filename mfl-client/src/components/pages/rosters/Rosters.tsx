@@ -20,8 +20,37 @@ export const Rosters: React.FC<IRostersProps> = (props: IRostersProps) => {
   }
   
   return (
-    <div className="rosters">
-      {getEachRoster()}
+    <div>
+      <div className="search-Filters">
+        <div className="filters-section">
+          <div className="heading">
+            Filters
+          </div>
+
+          <div className="filer">
+              Quarterback
+          </div>
+          <div className="filer">
+            Running Back
+          </div>
+          <div className="filer">
+            Wide Reiceiver
+          </div>
+          <div className="filer">
+            Tight Ends
+          </div>
+          <div className="filer">
+            Kicker
+          </div>
+          <div className="filer">
+            Defense
+          </div>
+
+        </div>
+      </div>
+      <div className="rosters">
+          {getEachRoster()}
+      </div>
     </div>
   );
 

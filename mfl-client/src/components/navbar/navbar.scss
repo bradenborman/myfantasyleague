@@ -2,6 +2,10 @@
     background-color: #263e68;
     padding: 10px;
     margin: 0px;
+    height: 60px;
+    position: sticky;
+    z-index: 99;
+    top: 0px;
 
     .logo {
         font-family: 'Galindo';

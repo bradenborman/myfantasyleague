@@ -6,7 +6,7 @@
       "franchise": [
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_minnesota_vikings?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Brendan Borman",
           "name": "Vikings",
           "id": "0001",
           "player": [
@@ -174,7 +174,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_atlanta_falcons?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Sean Noble",
           "name": "Falcons",
           "id": "0002",
           "player": [
@@ -286,7 +286,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_tampa_bay_buccaneers?layer=comp&fit=constrain&hei=310&wid=310&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Josh Hughes",
           "name": "Buccaneers",
           "id": "0003",
           "player": [
@@ -358,7 +358,7 @@
         },
         {
           "icon": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dallas_Cowboys.svg/2000px-Dallas_Cowboys.svg.png",
-          "owner_name": null,
+          "owner_name": "Tyler Hall",
           "name": "Cowboys",
           "id": "0004",
           "player": [
@@ -526,7 +526,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_green_bay_packers?layer=comp&fit=constrain&hei=330&wid=330&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Tedd Mudd",
           "name": "Packers",
           "id": "0005",
           "player": [
@@ -694,7 +694,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_jacksonville_jaguars?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Braden Borman",
           "name": "Jaguars",
           "id": "0006",
           "player": [
@@ -822,7 +822,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_denver_broncos?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Paul Risher",
           "name": "Broncos",
           "id": "0007",
           "player": [
@@ -966,7 +966,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_kansas_city_chiefs?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Mason Bartlett",
           "name": "Chiefs",
           "id": "0008",
           "player": [
@@ -1134,7 +1134,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_arizona_cardinals?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Tim Borman",
           "name": "Cardinals ",
           "id": "0009",
           "player": [
@@ -1302,7 +1302,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_pittsburgh_steelers?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Tyler Oberlag",
           "name": "Steelers",
           "id": "0010",
           "player": [
@@ -1462,7 +1462,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_buffalo_bills?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Tyler Deitz",
           "name": "Bills",
           "id": "0011",
           "player": [
@@ -1598,7 +1598,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_new_orleans_saints?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Zach Beamer",
           "name": "Saints",
           "id": "0012",
           "player": [
@@ -1766,7 +1766,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_oakland_raiders?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Zane Lavy",
           "name": "Raiders",
           "id": "0013",
           "player": [
@@ -1878,7 +1878,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_baltimore_ravens?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Tyler Kemp",
           "name": "Ravens",
           "id": "0014",
           "player": [
@@ -2046,7 +2046,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_seattle_seahawks?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Brandon Smith",
           "name": "Seahawks",
           "id": "0015",
           "player": [
@@ -2166,7 +2166,7 @@
         },
         {
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_miami_dolphins?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
-          "owner_name": null,
+          "owner_name": "Erik Meyer",
           "name": "Dolphins",
           "id": "0016",
           "player": [

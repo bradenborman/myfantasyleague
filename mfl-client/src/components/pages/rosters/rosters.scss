@@ -1,6 +1,44 @@
-.rosters {
 
+.search-Filters {
+    margin: auto;
+    width: 17%;
+    position: fixed;
+    min-height: 150px;
+    float: left;
+    
+    .filters-section {
+        margin-top: 20px;
+        text-align: center;
+
+        .heading {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            color: #263e68;
+            font-family: 'Galindo';
+            text-align: left;
+            margin-left: 18px;
+        }
+
+        .filer {
+            font-family: 'Galindo';
+            margin: auto;
+            display: block;
+            font-weight: bold;
+            padding: 15px;
+            background-color: #c0f8af;
+            margin: 5px;
+            margin-left: 40px;
+            width: 80%;
+            border-radius: 12px;
+            cursor: pointer;
+            border: 1px solid black;
+        }
+    }
+
+}
+
+.rosters {
+    margin-left: 17%;
     text-align: center;
     margin-bottom: 200px;
-
 }

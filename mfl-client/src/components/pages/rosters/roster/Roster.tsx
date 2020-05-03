@@ -10,23 +10,40 @@ export interface IRosterProps {
 
 export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
   
-  const isTradingBlock = (isTradingBlock: boolean): JSX.Element | JSX.Element[] | null => {
-    if (isTradingBlock)
-      return (
-        <span className="trading-block">(Trading Block)</span>
-      )
-    return null;
-  }
+    const getPlayers = (): JSX.Element[] | JSX.Element | any  => {
+      let QBs = getGrouping("QB")
+      let RBs = getGrouping("RB")
+      let WRs = getGrouping("WR")
+      let TEs = getGrouping("TE")
+      let Ks = getGrouping("PK")
+      let DEFs = getGrouping("Def")
 
-    const getPlayers = (): JSX.Element | JSX.Element[] => {
-        return props.roster.player.map((player: Player, index: number) => {
-            return (
-              <p>{player.name != null ? player.name : "PlayerName "} ({player.position != null ? player.position : " position "}) {player.salary != null ? " $" + player.salary : " salary"}
-                {isTradingBlock(player.on_trading_block)}
-              </p>
-            );
-          });
+
+
+      return [
+        QBs, RBs, WRs, TEs, Ks, DEFs
+      ]
    }
+  
+  const getNumberValue = (x: string) => {
+    return Number(x) || 1;
+  }
+  
+  const getGrouping = (pos: string): JSX.Element[] => {
+    return props.roster.player
+      .filter(platers => platers.position == pos)
+      .sort((p1, p2) => getNumberValue(p2.salary) - getNumberValue(p1.salary))
+       .map((player: Player, i: number) => {
+           return (
+             <tr key={i} className={"pos" + i}>
+               <td>{player.position}</td>
+               <td className={player.on_trading_block ? 'trading-block' : ''}>{player.name}</td>
+               <td>{player.team}</td>
+               <td>${player.salary}</td>
+             </tr>
+           );
+       });
+  }
   
     return (
       <div className="roster">
@@ -36,10 +53,24 @@ export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
             </div>
               <h1 className="teamName" >{props.roster.name}</h1>
               <h3 className="ownerName" >name placeholder</h3>
-          </div>
-            <div className="players">
-                {getPlayers()}
-            </div>
+        </div>
+        
+
+        <table className="playersTable">
+          <thead>
+            <tr>
+              <th>POS</th>
+              <th>Player Name</th>
+              <th>Team</th>
+              <th>Salary</th>
+            </tr>
+          </thead>
+          <tbody>
+          {getPlayers()}
+          </tbody>
+        </table>
+
+
     </div>
   );
 };

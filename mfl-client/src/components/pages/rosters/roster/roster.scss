@@ -4,12 +4,14 @@ $img-size: 100px;
 
     text-align: left;
     display: inline-block;
-    min-width: 600px;
-    height: 800px;
+    min-width: 400px;
+    min-height: 700px;
     overflow: hidden;
     padding:20px;
     border: 1px solid black;
-    margin: 30px;
+    border-radius: 4px;
+    margin: 15px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.5);
 
     .teamInfo {
     
@@ -18,6 +20,8 @@ $img-size: 100px;
                 width: $img-size;
                 height: $img-size;
                 display: block;
+                position: relative;
+                top: -18px;
 
                 img {
                     max-width: 100%;
@@ -28,14 +32,34 @@ $img-size: 100px;
                 margin: 2px;
             }
 
+            .teamName {
+                font-family: 'Galindo';
+            }
+
     }
 
-    .players {
-        margin-top: 30px;        
+    table.playersTable {
+        margin-top: 30px; 
+        width: 100%;      
+        font-size: 1.1em; 
+        border-collapse: collapse;
 
-        .trading-block {
-            margin-left: 10px;
+        .pos0 {
+            border-top: solid 1px;
+            border-color: #263e68;
+        }
+
+        td {
+            padding: 3px;
+        }
+
+        .trading-block::after {
+            font-size: .6em; 
+            content: "Tradeing Block";
             color: red;
+            position: relative;
+            top: 0px;
+            left: 10px;
         }
 
     }
