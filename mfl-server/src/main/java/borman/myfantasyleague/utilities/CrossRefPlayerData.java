@@ -25,7 +25,7 @@ public class CrossRefPlayerData {
 
             detailedPlayer.ifPresent(player1 -> {
                 player.setPosition(player1.getPosition());
-                player.setName(player1.getName());
+                player.setName(DisplayNameUtility.displayName(player1.getName()));
                 player.setPosition(player1.getPosition());
                 player.setTeam(player1.getTeam());
             });

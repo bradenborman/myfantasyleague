@@ -55,7 +55,7 @@ const handleFilterChange = (pos: string):void => {
       <div className="search-Filters">
         <div className="filters-section">
           <div className="heading">
-            Pos Filters
+            Position Filters
           </div>
           <div className={activeChosen("QB")} onClick={e => handleFilterChange("QB")}>
               Quarterback

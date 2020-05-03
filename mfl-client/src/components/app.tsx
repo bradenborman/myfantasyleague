@@ -54,7 +54,6 @@ export const App: React.FC<IAppProps> = (props: IAppProps) => {
     
     return (
       <ReactRouter>          
-        <ReactRoute path="/" component={getRosterPage} />
         <ReactRoute path="/rosters" component={getRosterPage} />
       </ReactRouter>
     )

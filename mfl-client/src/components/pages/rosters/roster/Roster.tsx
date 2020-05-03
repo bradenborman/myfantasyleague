@@ -53,7 +53,7 @@ export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
                 <img src={props.roster.icon} />
             </div>
               <h1 className="teamName" >{props.roster.name}</h1>
-              <h3 className="ownerName" >name placeholder</h3>
+              <h3 className="ownerName" >{props.roster.owner_name}</h3>
         </div>
         
 
