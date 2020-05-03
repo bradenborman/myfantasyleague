@@ -53,7 +53,8 @@ export const App: React.FC<IAppProps> = (props: IAppProps) => {
       return <p>Error Loading Data</p>
     
     return (
-      <ReactRouter>            
+      <ReactRouter>          
+        <ReactRoute path="/" component={getRosterPage} />
         <ReactRoute path="/rosters" component={getRosterPage} />
       </ReactRouter>
     )

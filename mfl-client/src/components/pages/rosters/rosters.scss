@@ -1,7 +1,9 @@
 
+$filter-width: 15%;
+
 .search-Filters {
     margin: auto;
-    width: 17%;
+    width: $filter-width;
     position: fixed;
     min-height: 150px;
     float: left;
@@ -19,26 +21,53 @@
             margin-left: 18px;
         }
 
-        .filer {
+        .filter {
             font-family: 'Galindo';
             margin: auto;
             display: block;
             font-weight: bold;
             padding: 15px;
-            background-color: #c0f8af;
             margin: 5px;
             margin-left: 40px;
             width: 80%;
             border-radius: 12px;
             cursor: pointer;
             border: 1px solid black;
+            transition: all .5s;
+        }
+
+        .active {
+            background-color: #c0f8af;
+        }
+
+        .not-active {
+            background-color: #d9d9d9;
+            text-decoration: line-through;
+        }
+
+        .salary-limit-filter {
+            margin-top: 30px;
+            text-align: left;
+            label {
+                font-size: 1.3em;
+            }
+            .input-wrapper {
+                margin-left: 30px;
+            }
+        }
+
+        .salary-range-input {
+            margin: 15px;
+            font-size: 1.3em;
+            text-align: center;
+            width: 60px;
         }
     }
 
 }
 
 .rosters {
-    margin-left: 17%;
+    margin-left: $filter-width;
     text-align: center;
     margin-bottom: 200px;
 }

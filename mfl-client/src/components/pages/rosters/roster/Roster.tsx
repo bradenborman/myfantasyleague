@@ -5,7 +5,10 @@ import { Player } from "../../../../models/player";
 require("./roster.scss");
 
 export interface IRosterProps {
-    roster: Franchise;
+  roster: Franchise;
+  activeFilters: string[];
+  lowerSalaryLimit: number;
+  upperSalaryLimit: number;
 }
 
 export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
@@ -17,9 +20,6 @@ export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
       let TEs = getGrouping("TE")
       let Ks = getGrouping("PK")
       let DEFs = getGrouping("Def")
-
-
-
       return [
         QBs, RBs, WRs, TEs, Ks, DEFs
       ]
@@ -31,7 +31,8 @@ export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
   
   const getGrouping = (pos: string): JSX.Element[] => {
     return props.roster.player
-      .filter(platers => platers.position == pos)
+      .filter(platers => platers.position == pos && props.activeFilters.indexOf(pos) > -1)
+      .filter(player => getNumberValue(player.salary) >= props.lowerSalaryLimit && getNumberValue(player.salary) <= props.upperSalaryLimit)
       .sort((p1, p2) => getNumberValue(p2.salary) - getNumberValue(p1.salary))
        .map((player: Player, i: number) => {
            return (
