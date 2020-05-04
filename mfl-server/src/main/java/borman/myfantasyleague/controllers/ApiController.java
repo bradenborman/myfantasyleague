@@ -33,6 +33,10 @@ public class ApiController {
 
     @GetMapping("/static-data")
     public ResponseEntity<LeagueRequest> staticData() throws IOException {
+
+
+        //myFantasyLeagueService.getDraftPicks();
+
         Resource resource = resourceLoader.getResource("classpath:test-data.json");
         InputStream inputStream = resource.getInputStream();
         byte[] bdata = FileCopyUtils.copyToByteArray(inputStream);

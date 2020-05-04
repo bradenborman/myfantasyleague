@@ -1,6 +1,7 @@
 package borman.myfantasyleague.controllers;
 
 import borman.myfantasyleague.config.MyFantasyLeagueProperties;
+import borman.myfantasyleague.models.draftpickdata.DraftPickRequest;
 import borman.myfantasyleague.models.leaguedata.LeagueRequest;
 import borman.myfantasyleague.models.playerdata.PlayerDataRequest;
 import borman.myfantasyleague.models.rosterdata.Player;
@@ -73,6 +74,21 @@ class MyFantasyLeagueService {
         ).getBody();
     }
 
+
+    public void getDraftPicks() {
+
+        URI url = UriComponentsBuilder
+                .fromUriString(myFantasyLeagueProperties.getApiRoutes().getDraftPicks())
+                .build()
+                .toUri();
+
+        DraftPickRequest rosterRequest = restTemplate.getForEntity(
+                url.toString(),
+                DraftPickRequest.class
+        ).getBody();
+
+
+    }
 
     private List<TradeBait> getTradeBaitData() {
         return restTemplate.getForEntity(

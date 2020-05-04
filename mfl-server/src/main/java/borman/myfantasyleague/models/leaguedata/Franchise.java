@@ -1,5 +1,6 @@
 package borman.myfantasyleague.models.leaguedata;
 
+import borman.myfantasyleague.models.draftpickdata.CurrentYearDraftPicks;
 import borman.myfantasyleague.models.rosterdata.Player;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
@@ -14,6 +15,7 @@ public class Franchise {
     private String name;
     private String id;
     private List<Player> player;
+    private CurrentYearDraftPicks currentYearDraftPicks;
 
     public String getIcon() {
         return icon;
@@ -53,5 +55,13 @@ public class Franchise {
 
     public void setPlayer(List<Player> player) {
         this.player = player;
+    }
+
+    public CurrentYearDraftPicks getCurrentYearDraftPicks() {
+        return currentYearDraftPicks;
+    }
+
+    public void setCurrentYearDraftPicks(CurrentYearDraftPicks currentYearDraftPicks) {
+        this.currentYearDraftPicks = currentYearDraftPicks;
     }
 }

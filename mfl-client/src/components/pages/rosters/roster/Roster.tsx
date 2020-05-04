@@ -1,6 +1,7 @@
 import React from "react";
 import { Franchise } from "../../../../models/franchise";
 import { Player } from "../../../../models/player";
+import { DraftPick } from "../../../../models/draftpick";
 
 require("./roster.scss");
 
@@ -13,6 +14,21 @@ export interface IRosterProps {
 
 export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
   
+  const getPicks = (): JSX.Element[] | JSX.Element | any  => {
+    let x;
+    if(props.roster.current_year_draft_picks.draft_pick != null && props.roster.current_year_draft_picks.draft_pick.length > 0)
+    x = props.roster.current_year_draft_picks.draft_pick.map((e, index) => {
+      return <div className="pick" key={index}>{e.description}</div>
+    })
+    
+    return (
+      <div className="picks">
+        {x}
+      </div>
+    )
+  }
+  
+
     const getPlayers = (): JSX.Element[] | JSX.Element | any  => {
       let QBs = getGrouping("QB")
       let RBs = getGrouping("RB")
@@ -71,6 +87,7 @@ export const Roster: React.FC<IRosterProps> = (props: IRosterProps) => {
           </tbody>
         </table>
 
+        {getPicks()}
 
     </div>
   );

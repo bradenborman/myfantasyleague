@@ -4,9 +4,9 @@ $img-size: 100px;
 
     text-align: left;
     display: inline-block;
-    min-width: 400px;
-    min-height: 700px;
-    overflow: hidden;
+    min-width: 600px;
+    height: 850px;
+    overflow-y: scroll;
     padding:20px;
     border: 1px solid black;
     border-radius: 4px;
@@ -63,4 +63,37 @@ $img-size: 100px;
         }
 
     }
+
+
+    .picks {
+        margin-top: 25px;
+        .pick {
+            font-size: 1.2em;
+            text-align: center;
+            width: 100%;
+            color: #990806;
+        }
+    }
 }
+
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 0px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgba(191, 181, 192, 0.7);
+    border-radius: 0px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(191, 181, 192, 0.7);
+  }

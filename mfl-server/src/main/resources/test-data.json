@@ -9,6 +9,26 @@
           "owner_name": "Brendan Borman",
           "name": "Vikings",
           "id": "0001",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_1_5",
+                "description": "Year 2020 Draft Pick 2.06"
+              },
+              {
+                "pick": "DP_2_3",
+                "description": "Year 2020 Draft Pick 3.04"
+              },
+              {
+                "pick": "DP_2_6",
+                "description": "Year 2020 Draft Pick 3.07"
+              },
+              {
+                "pick": "DP_2_7",
+                "description": "Year 2020 Draft Pick 3.08"
+              }
+            ]
+          },
           "player": [
             {
               "id": "13116",
@@ -177,6 +197,18 @@
           "owner_name": "Sean Noble",
           "name": "Falcons",
           "id": "0002",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_1_9",
+                "description": "Year 2020 Draft Pick 2.10"
+              },
+              {
+                "pick": "DP_2_10",
+                "description": "Year 2020 Draft Pick 3.11"
+              }
+            ]
+          },
           "player": [
             {
               "id": "13604",
@@ -289,6 +321,30 @@
           "owner_name": "Josh Hughes",
           "name": "Buccaneers",
           "id": "0003",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_2",
+                "description": "Year 2020 Draft Pick 1.03"
+              },
+              {
+                "pick": "DP_0_4",
+                "description": "Year 2020 Draft Pick 1.05"
+              },
+              {
+                "pick": "DP_0_9",
+                "description": "Year 2020 Draft Pick 1.10"
+              },
+              {
+                "pick": "DP_0_13",
+                "description": "Year 2020 Draft Pick 1.14"
+              },
+              {
+                "pick": "DP_2_13",
+                "description": "Year 2020 Draft Pick 3.14"
+              }
+            ]
+          },
           "player": [
             {
               "id": "13610",
@@ -361,6 +417,22 @@
           "owner_name": "Tyler Hall",
           "name": "Cowboys",
           "id": "0004",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_12",
+                "description": "Year 2020 Draft Pick 1.13"
+              },
+              {
+                "pick": "DP_1_12",
+                "description": "Year 2020 Draft Pick 2.13"
+              },
+              {
+                "pick": "DP_2_12",
+                "description": "Year 2020 Draft Pick 3.13"
+              }
+            ]
+          },
           "player": [
             {
               "id": "13612",
@@ -529,6 +601,18 @@
           "owner_name": "Tedd Mudd",
           "name": "Packers",
           "id": "0005",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_10",
+                "description": "Year 2020 Draft Pick 1.11"
+              },
+              {
+                "pick": "DP_1_10",
+                "description": "Year 2020 Draft Pick 2.11"
+              }
+            ]
+          },
           "player": [
             {
               "id": "13163",
@@ -696,6 +780,14 @@
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_jacksonville_jaguars?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
           "owner_name": "Braden Borman",
           "name": "Jaguars",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_1_6",
+                "description": "Year 2020 Draft Pick 2.07"
+              }
+            ]
+          },
           "id": "0006",
           "player": [
             {
@@ -824,6 +916,30 @@
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_denver_broncos?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
           "owner_name": "Paul Risher",
           "name": "Broncos",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_6",
+                "description": "Year 2020 Draft Pick 1.07"
+              },
+              {
+                "pick": "DP_1_0",
+                "description": "Year 2020 Draft Pick 2.01"
+              },
+              {
+                "pick": "DP_1_1",
+                "description": "Year 2020 Draft Pick 2.02"
+              },
+              {
+                "pick": "DP_1_3",
+                "description": "Year 2020 Draft Pick 2.04"
+              },
+              {
+                "pick": "DP_2_0",
+                "description": "Year 2020 Draft Pick 3.01"
+              }
+            ]
+          },
           "id": "0007",
           "player": [
             {
@@ -969,6 +1085,22 @@
           "owner_name": "Mason Bartlett",
           "name": "Chiefs",
           "id": "0008",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_0",
+                "description": "Year 2020 Draft Pick 1.01"
+              },
+              {
+                "pick": "DP_1_4",
+                "description": "Year 2020 Draft Pick 2.05"
+              },
+              {
+                "pick": "DP_2_4",
+                "description": "Year 2020 Draft Pick 3.05"
+              }
+            ]
+          },
           "player": [
             {
               "id": "13593",
@@ -1137,6 +1269,22 @@
           "owner_name": "Tim Borman",
           "name": "Cardinals ",
           "id": "0009",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_15",
+                "description": "Year 2020 Draft Pick 1.16"
+              },
+              {
+                "pick": "DP_1_15",
+                "description": "Year 2020 Draft Pick 2.16"
+              },
+              {
+                "pick": "DP_2_15",
+                "description": "Year 2020 Draft Pick 3.16"
+              }
+            ]
+          },
           "player": [
             {
               "id": "12611",
@@ -1305,6 +1453,18 @@
           "owner_name": "Tyler Oberlag",
           "name": "Steelers",
           "id": "0010",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_1_8",
+                "description": "Year 2020 Draft Pick 2.09"
+              },
+              {
+                "pick": "DP_2_8",
+                "description": "Year 2020 Draft Pick 3.09"
+              }
+            ]
+          },
           "player": [
             {
               "id": "11222",
@@ -1464,6 +1624,18 @@
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_buffalo_bills?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
           "owner_name": "Tyler Deitz",
           "name": "Bills",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_11",
+                "description": "Year 2020 Draft Pick 1.12"
+              },
+              {
+                "pick": "DP_2_9",
+                "description": "Year 2020 Draft Pick 3.10"
+              }
+            ]
+          },
           "id": "0011",
           "player": [
             {
@@ -1600,6 +1772,7 @@
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_new_orleans_saints?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
           "owner_name": "Zach Beamer",
           "name": "Saints",
+          "current_year_draft_picks": {},
           "id": "0012",
           "player": [
             {
@@ -1768,6 +1941,22 @@
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_oakland_raiders?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
           "owner_name": "Zane Lavy",
           "name": "Raiders",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_1_2",
+                "description": "Year 2020 Draft Pick 2.03"
+              },
+              {
+                "pick": "DP_1_13",
+                "description": "Year 2020 Draft Pick 2.14"
+              },
+              {
+                "pick": "DP_2_2",
+                "description": "Year 2020 Draft Pick 3.03"
+              }
+            ]
+          },
           "id": "0013",
           "player": [
             {
@@ -1881,6 +2070,38 @@
           "owner_name": "Tyler Kemp",
           "name": "Ravens",
           "id": "0014",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_1",
+                "description": "Year 2020 Draft Pick 1.02"
+              },
+              {
+                "pick": "DP_0_7",
+                "description": "Year 2020 Draft Pick 1.08"
+              },
+              {
+                "pick": "DP_1_11",
+                "description": "Year 2020 Draft Pick 2.12"
+              },
+              {
+                "pick": "DP_2_1",
+                "description": "Year 2020 Draft Pick 3.02"
+              },
+              {
+                "pick": "DP_2_5",
+                "description": "Year 2020 Draft Pick 3.06"
+              },
+              {
+                "pick": "DP_2_11",
+                "description": "Year 2020 Draft Pick 3.12"
+              },
+              {
+                "pick": "DP_2_14",
+                "description": "Year 2020 Draft Pick 3.15"
+              }
+            ]
+          },
           "player": [
             {
               "id": "11783",
@@ -2048,6 +2269,14 @@
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_seattle_seahawks?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
           "owner_name": "Brandon Smith",
           "name": "Seahawks",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_1_7",
+                "description": "Year 2020 Draft Pick 2.08"
+              }
+            ]
+          },
           "id": "0015",
           "player": [
             {
@@ -2168,6 +2397,30 @@
           "icon": "http://s7d2.scene7.com/is/image/Fathead/lgo_nfl_miami_dolphins?layer=comp&fit=constrain&hei=350&wid=350&fmt=png-alpha&qlt=75,0&op_sharpen=1&resMode=bicub&op_usm=0.0,0.0,0,0&iccEmbed=0",
           "owner_name": "Erik Meyer",
           "name": "Dolphins",
+          "current_year_draft_picks": {
+            "draft_pick": [
+              {
+                "pick": "DP_0_3",
+                "description": "Year 2020 Draft Pick 1.04"
+              },
+              {
+                "pick": "DP_0_5",
+                "description": "Year 2020 Draft Pick 1.06"
+              },
+              {
+                "pick": "DP_0_8",
+                "description": "Year 2020 Draft Pick 1.09"
+              },
+              {
+                "pick": "DP_0_14",
+                "description": "Year 2020 Draft Pick 1.15"
+              },
+              {
+                "pick": "DP_1_14",
+                "description": "Year 2020 Draft Pick 2.15"
+              }
+            ]
+          },
           "id": "0016",
           "player": [
             {

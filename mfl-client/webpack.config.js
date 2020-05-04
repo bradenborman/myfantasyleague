@@ -65,8 +65,8 @@ if (isProd) {
 
   config.plugins.push(
     new MiniCssExtractPlugin({
-      filename: "index.css",
-      chunkFilename: "[id].css"
+      filename: "index.[hash].css",
+      chunkFilename: "[id].[hash].css"
     })
   );
 } else {
