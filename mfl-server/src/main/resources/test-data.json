@@ -781,12 +781,11 @@
           "owner_name": "Braden Borman",
           "name": "Jaguars",
           "current_year_draft_picks": {
-            "draft_pick": [
+            "draft_pick":
               {
                 "pick": "DP_1_6",
                 "description": "Year 2020 Draft Pick 2.07"
               }
-            ]
           },
           "id": "0006",
           "player": [
